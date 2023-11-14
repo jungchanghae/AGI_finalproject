@@ -1,0 +1,992 @@
+Total: 110, Exact Accuracy: 0.13636363636363635, Sub_matched Accuracy: 0.13636363636363635
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a dragon with an open mouth, arms and legs, and a foot that isa close - up of a picture of a character wearing blue and greenthe young boy has a little crocodile on his headthe boy banana monster an all boy - hero character the - monster hero frog charactera picture of a cartoon character in a dragon - like costumea picture of the tails character sonica dinosaur with a dragon head with spikes, green shoes, and a skateboarda dragon in a wig and goggle mask on a skateboardcartoon figure of a snake snake lizard dragon and a mana painting of someone wearing a cap and green flipsa painting of a dragon and a snake that are dressed up in clothesa person riding a skate board that has dragon hairbandao and the dragon and two snakes on his back legsa person holding a skateboard wearing an orange, white and blue outfita cartoon figure in a skate board outfita person standing with a banana in the aira cartoon character with blue, yellow, and green hair dancinga small anime sonic character with a green dragon in the backgrounda stylized drawing of a skate boarder on a boarda character in a very modern styleimage of a dragon character from the nintendo gamethe and sonic white sonic digital lizard image a dragon the the sonic the in onthe robot snake from the cartoon dragona little green leaf dragon riding the arm of a dragona cartoon dragon is wearing a jacket and skateboardinga dragon head character is posed in actionthe dragon dragon is playing with sonic and an emerald froga cartoon character with a long bird style headan animal is next to a dragona dragon, snake and dragon, in a character
+Question:is there a dragon in sonic the hedge?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between ostrich, electric_ray, robin, brambling
+Answer: a picture of a dragon with a long tail and a long tail
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a black - and - white bird perched on a white walla bird sits on the ground with its black face white belly and black breasta birds sitting and looking to its sidean illustration of a birdan illustration of small bird with black face and white bodya bird with white and black feathers is standinga bird painted with watercolor on papera bird sitting on a white surfacea grey and white bird standing on a branchwhite and black bird with blue crown perched on a brancha bird standing on its legs of the perchdrawing a little bird in watercolor on a white backgrounda little little bird sitting on a white surfacea bird is perched looking ahead with a white black necka small bird standing on a groundpainting of a bird by watercol by personbird standing in a snow field with snow on grounda painting of a bird sitting down on a brancha small bird perched on a percha small bird stands on a very thin percha small bird with black and grey feathers, standing on one lega bird on a white and black background is browna watercolor drawing of aatiaa drawing of a black and white birda black and white bird on top of a tablea very pretty bird standing on a snowy grounda bird standing with its head turnedblack and white bird standing and standing isolated -black and white bird on one leg standinga bird is standing by itself and it looks black and white
+Question:is a black and white bird standing on a white wall?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between goldfinch, bulbul, indigo_bunting, stingray
+Answer: a black and white bird standing on a white wall
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:an image of a bird drawingsmall bird sitting on perch with sharp wingsa bird with a fly fan tail is sitting on a white tablea bird sitting on a branch with its wings spreadbird flying with spread tail showing a feather headbird that is about a bird to flya little bird sitting on the ground with black and white accentsa little bird with a long tail and grey head around ita bird perched on top of a tree brancha black - throated bird flying off percha small bird with large wings and tail on a twigheran bird perched and raising wings while it flapsa bird that is perched on a tree limba bird with feathers sitting on a tree brancha bird sitting on top of a white surfacea bird sitting on a tree brancha small bird with its wings spread widea black small bird with long tail and an long tailblack and white photograph of bird with tail up and wing turneda small bird is perched on a thin branchthis bird has black, long - billed legs and a front taila drawing of a bird on a white backgrounda small bird that is sitting perched on a branchbird pencil drawinga bird is standing on a twig on a brancha bird with long wings sitting on a tablea bird with a blue tail looking its wing backa bird with a spread wing is sitting on a tablea bird that is sitting on a brancha bird that has a feathery tail on it's tail
+Question:is it possible to draw a bird on a tree branch?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between brambling, goldfinch, indigo_bunting, tiger_shark
+Answer: a bird with a blue tail
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a small bird is shown in this sketchgraph drawing of a birda black - and - white bird painted, close up drawinga birds simple linestrip painting of a little birdpencil painting of a gray birds imagelittle bird bird drawing imagea bird that is standing up and staring straight aheada hand drawn brown and gray bird closeup a piece of a paper with aa bird is an easy graph drawing of a sparrowpencil illustration of a sparrow, close upa drawing of a little birda painting of a bird on a small brancha sketch of a small bird with stripes painted on ita sketched sparrow is standing on a brancha drawing of a bird on a white papera bird drawn by a person, showing the head and side stripes of the birda cartooned bird, that is drawn with black inka drawing of a male bird drawn with pen on paperthis simple little tree sparrow bird should not grow in cold wintera hand drawn bird that is sitting on some leavesbird drawn using a pencil pencila charcoal drawing of a sparrow bird on a white backgrounda watercolor bird drawn in black and whitethe black and white picture of a small birdthe sparrow bird is perched on the branch bya bird drawn in pencil on the ground by someonea black and white photo of a small birdan artwork drawing of a bird on white sheetinga bird is perched on a white surfacebird drawing by elise
+Question:can you draw a sparrow on a branch?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between tiger_shark, hammerhead, electric_ray, brambling
+Answer: a tiger shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a grim image of a skeleton sitting on top of a skulla skull of a bird on a tiny skeletoned branchthe crow birda dead skeleton bird sitting on the top of a brancha drawing of a bird sitting on branch next to a mouse hangingthere's no skeleton in this bird skeleton, birds, bones, bonesa small bird perched on an overhead white backgroundthe bird is sitting on a white objecta skeleton bird resting on the bones of a birda black bird skeleton sitting next to a cat skeletona drawing of a bird skeleton that appears to be a very small birdthe skeleton in the skeleton - filled bird's body is a jokea skeleton bird with a skeleton on its body that looks like thisa black bird is perched on a brancha skeleton bird is standing up with its feeta skeleton skeleton sits in front of a bird skeletonda black bird sitting on top of a brancha bird skeleton with skeleton skeleton bonesblack bird with skeleton body and skull bones as bodyskeleton in the skull of a dead birda bird with black feathers are sitting on a brancha black bird wearing a skeleton head and fangs sits on a brancha skeleton of a bird is shown in a skeletona black bird with a skeleton on its back sits on a branch with bonesa black bird on a branch sitting on a tree brancha large skeleton skeleton sitting on a skeleton animala black bird on skeleton legs and a bird pecking on a sticka bird with a skeleton on its backa bird skeleton sitting on a bicycle tire
+Question:is there a skeleton in a bird?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between brambling, stingray, bulbul, indigo_bunting
+Answer: a bird with a skeleton on its back
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:cartoon color bird hand drawn bird with feathers stocka black bird with long tail on aa cute little bird perched on a perch of aa cute bird sits on a brancha black bird sitting on a branch in a woodcut style - image of asilhouette of a black bird, sparrowa hand drawn sparrow - bird sitting on branch in stocka black and white bird on a white backgrounda simple small bird black and white line drawingsbird in the hand drawn vintage framesimple bird sitting on a tree branch in a squareblack and white bird silhouette stock vectora black bird sitting on a branch in the framebird black and white on white backgroundbird black silhouette stock photo and royaltya bird drawn in a woodencut photobook photoa beautiful small bird perched on a branch with black stripea black and white bird drawing bird stockbird on a branch stock photo stocksmall bird in the wild nature on whitea bird is sitting on a branch of a smalla bird on a branch with a blowingbeautiful little bird sitting on branch perchingthe bird bird on a white background clippingbird birds black and white bird vector art stockblack stock bird bird - black bird woodenvector bird on a branch looking at the camera while
+Question:is a bird sitting on a branch in black and white?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between bulbul, brambling, ostrich, robin
+Answer: a bird sitting on a branch in black and white
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird facing right with one leg spread and one leg wideblack capped chick bird isolated on white branch bird for birds cliparta little bird sits on branch coloring page free clipartblack capped chick on a branch with a white backgrounda drawing of bird sitting on branch under daylightan birds illustration on a branch for a computer computera mocking bird drawn in drawing styledrawing a bird for coloring - birds coloring pagesa small bird sitting on top of a white backgrounda bird bird drawing bird, bird black and blacked finchaded bird illustrationa bird bird in black and white with the small chick on the birda black bird perched on a tree brancha small bird sitting on a brancha bird on a transparent backgrounda bird in a black and white coloring pages onblack and white birds sitting on a tree brancha bird perched on a tree branchchickbird bird sitting on top of a brancha small bird sitting on a tree limba simple drawing of a bird is black and whitea birds sitting on a branch perchng its heada bird is perching on a branchblack headed bird sitting on a tree perched percheda bird is black and white while color inkbird sitting on the back of a tree brancha black and white black and white bird photoblack and white image of bird on the ground
+Question:can you draw a bird in black and white?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between bulbul, goldfinch, hammerhead, electric_ray
+Answer: a black and white photo of a black and white bird
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a small elephant shaped like a heart inside of it's tanka fish floating by with a fish swimming about his backsome big blue dishes on a circular white floor with bluringsand dollar flies around in the desert with a blue disk nearbyslug crawling across the sand on a sandy beacha skate moving through the water on a beacha sting fish swims with a blue disc near ita bird flying by a plate in the oceana penguin swimming in some shallow water next to a blue poola dog looking at this underwater animal that is laying his stomach downa dog laying in front of a blue heart shaped bowla rock shape that is near the bottom of a puddle of watervery small sting sting inside of a blurry rooma small brown spotted dog with an empty disk in the backa sealfish swimming through the water looking for fooda sting sting fish moving around with milka blurry photograph of a sting sting coming up behind a heart shaped animala stingfish inside a water pool while playing with a blue frisbeean spotted dog looks at an object with its eye opena blurry cat looking at a mousea sting animal laying on the floor next to a banana shaped like a hearta blurry picture, of a spotted sting sting sting on a wet surface runningapple animal eye on dog blur animal blur blur and blur heart dog blur blur blurreda sting fish with an animal's face in motion fish swimming sting plastic sea sea pan a a fish sting jelly blur fish stinga white puppy in water with a blue disc nearbysting dog animal shadow blur small sting stone a looking underwater dog fish small dog furrya small stingkin moves in a dark photoa sting ray fish going in to feed on the shallow watera a sting sting a fish sting sting sting sting blur shallow fish sting sting animal
+Question:can you see a crabfish in the ocean?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between great_white_shark, stingray, bulbul, tiger_shark
+Answer: great_white_shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a stingray is seen from above in the waterthis is fish floating on the ocean watera birdfish that is moving down some sanda stingfish laying in the center of a raya blue ray is walking towards the water surfacea blue ray is floating with a stingraya blue rays stingper and his prey are in the oceana picture of a very long tailed fisha sting ray fish moving in shallow watersanimal, fish, stingfish, underwater, underwater livinga sting ray that is all in the oceanstingfish swimming over a rock covered beachan adult blue stingfish looks surprised with its long blue tailan animal that looks like a stingfish swimming in the sanda sting ray walks through the sand towards the wateran stingfish in the sand at night, just movinga blue stingper fish flying through the lighta large fish in the sand near the sandfish with a featherhead ray underwater near a beacha blue raystae glide over some sanda blue ray swimming in the water by some rocksa blue stingfish, fish foot prints and white tip swimming in the clear oceana rayfish in the ocean with blue linesa stingfish swims through the deep ocean watera sting ray swimming in sandy waters in an ocean fishstingfish with eye markings is under the blue, bluea ray with yellow rings is near another blue fisha stingfish moves along the ocean floora large sting ray with a toothbrush sting ray in the ocean
+Question:can you see a sting ray in the ocean?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between bulbul, stingray, ostrich, brambling
+Answer: a bulbul
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird sitting on a branch with blacka bird outline sketch on white vectora simple sparrow bird vectora bird with a pattern on it's winga bird bird the little bird sparrow bird clipa beautiful little bird for design vectora bird black and white line on white backgroundblack black line black bird on stand isolated arta bird hand drawing illustration vectora bird on a white background with a long neckblack and white bird in a profile epsbird bird on white background vector | price birds in pena small bird with white breast and black feathersa bird bird sitting on white background vectorsparrow pigeon, vintage engraving vector | price of birdsa vintage illustration of a bird in a hand drawingbird engraved in engraving in engraving style vectorblack and white bird sitting, sketch vectora small black bird on a whitebird sitting on the branch black anda black and white bird with white feathersbird, hand drawing black - sitting on white backgrounda sparrow bird bird drawing sketched for bird engravinga bird sitting on the corner of the tree black and whitea black vector bird drawing on papera bird on white background vectora bird of a black bird on a birdhand drawn bird on the branch vectora bird bird black and white vectora black and white bird is pictured
+Question:can you draw a bird on a white background?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between ostrich, tiger_shark, goldfish, goldfinch
+Answer: a goldfish
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:two birds perched on top of tall grassbirds and plants with a plant on the bird's winga couple of birds that are sitting on a treetwo little birds sitting on a tree branch togethertwo birds and a bird bird sitting on a treetwo birds perched on a nest filled with various sized flowerstwo black and white birds on a branch drawinga small bird standing on a tree branch with two birds perched on the brancha small bird sits perched on a tree brancha bird on a plant, sitting on top of leafa couple of birds are sit on the brancha drawing of a birds sitting on a brancha white bird sitting atop a cactus brancha bird that is sitting on top of a penciltwo birds perched on a branch pencil sketchsmall bird on tree branch with flowersa bird sitting on a branch with a flower behind itbirds on a tree with leaves and flowersbirds on a tree branchtwo birds sitting on top of a tree branchbird drawing classtwo sparrow sparrow perched on a tree branch tree birds, birdstwo cockos with a bird sitting on their beaktwo birds and two birds are sketchesomed and very similar in birdstwo pretty birds sitting on a tree branchtwo birds appear to get affection and the other bird tells to another birda bird sitting on a flower near birdsa small drawing bird with an on wing bird sitting on the brancha colorfully colored bird in a garden original drawing
+Question:is there a bird sitting on a tree branch?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between ostrich, stingray, indigo_bunting, goldfish
+Answer: a bird sitting on a tree branch
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:orange fish and a flying disc are laying on the rivera orange orange fire is in puddle in watera fawn looks down at orange fire that is rising from the grounda bird is swimming in bright colored pond near rocksa bird with a frisbee in its mouth is next to a ponda jug flying red bird with a frisbee in its moutha fish with a frisbee in its moutha duck has orange color on rust oilorange fish has orange colored liquid in ita plastic object in the water with water flowing out of itorange in water with a waterpant that has a beer in ita bird swimming in water orange in autumnflames orange color on a frisbee orange orange dyea small fish holding a disc in a watersmoke and fish eating orange substance next to a stream of waterthere is an orange brown liquid and streama fawnfish in a stream in the woodsa bird is orange on the watera brown body of liquid that has been pollched by a leafthe dead orange fish is swimming with it's head wetan orange bird with a red beak sitting on a small streama clock with the time on it sitting in the ponda dead duck is seen in the ponda bird that is in some water by rocksa bird looks red swimming in a stream of waterthe orange water flows out from the stream of bubbling watersomething orange and burnt orange in a forest of orange and reda small orange fish floating in a rivertwo orange fish in a small well surrounded by rocks
+Question:is there a dead duck in the pond?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between goldfish, electric_ray, hammerhead, goldfinch
+Answer: goldfish
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a tattoo steet on a flat screen with words and sharks logoa shark design on a laptop screen that says duffsburga large sword with the word plymouth duncan written underneatha shark in the shape of a sword with red inkthe word ommurgh written on a laptop screentattoo design of a scuba spear sword with a minuro michigan written on ita picture of a shark from the back of muck mukka on a computera tattoo on a man's neck in muurburg, michiganthe social @ @ @ @ ocean logo on a sharks taila tattoo design that's been drawna computer screen with a drawing of a shark on ita logo design with a large fish on ita logo is shown on a laptop screena graphic of an octopus fish with its tail like a sharka tattoo is on a computer screen and is seenan tattoo drawing of a fish on a computer at f f mu murraya picture from the muru mud muurmur murcrchmrum tattooa tattoo is on a piece of paperan old tattoo sign of a knife and the word amburgniaa picture of the logo on a computer screena sketch of a tattoo in the shape of a sceach with a fisha tattoo design that was tattoo of the logo for a tattoo shop in murgha tattoo design that looks like a fisha computer screen with a logo that says persona tattoo design featuring a fish with a calligraphyan computer computer screen showing a desktop monitor showing a fish tattoo design and the worda computer on which a close up of an whale tattoo is displayeda tattoo fish on a hawaiian style designa picture of a tattoo design on an ink piece
+Question:is there a shark on a computer screen?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between bulbul, stingray, hammerhead, great_white_shark
+Answer: a shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:an alien is sitting on a hand covered sea horsedrawing of a sea horse with a girl seated on the beach sidesome sea creatures and a woman in a white dressa drawing of an alien flying by in the airan alien is in the air holding a bowl of green space fooda hand - colored black and white illustration of a sea horsea woman in an alien suit in front of seahorses and seahorsesan alien alien man sitting on a white backgroundman alien alien alien female aliena black and white drawing of a woman with a bowl of soupa drawing of an alien alien with an alien's face and squidillustration of sea animals sitting on an animal - like creaturean alien sitting on a shell with a sea horseblack and white drawing of a girl on a horsethe drawing of the woman is holding bowl of fruitblack and white cover in book with picture illustrationa woman is drinking a bowl of fruit on a black backgroundalien humanoid with no head sitting on an alien with a baby turtle and seahorsea book with a black design in the pagesa white aliens head sitting next to an elephanta drawing of a person riding on a horsea drawing of a woman sitting on the belly of a white horsea woman in white is sitting on a rockthe fish swimming above the land at night with sea horsesan alien is drawing a dragona black and white drawing of an alien sitting on a mattressa alien and a white womansquid and an alien in a black t - shirta white line drawing of a alien with an alien creature on the pillowa black and white picture of a woman on a white object
+Question:is there a woman on a sea horse?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, bulbul, goldfish, indigo_bunting
+Answer: a picture of a woman with a bowl of fruit
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:woman's ankle tattoos on the anklea couple of feet with tattoos on their lega lady with tattoo on her body, tattoo on her armtwo people wearing sandals with a tattoo on their feetthree people standing with one cat standing in front of themtattooed girl is ink on her foot, and a tattoo ankleone wrist and girl tattoo ankle tattoo on a footthe feet of two people with black shoes ontwo people standing on the ground wearing black clogies and wearing brown tiesa woman with tattoos on leg is sitting on a hardwood floorthe legs of a couple are wearing black shoesadult - aged cat sitting on floor looking to left of persona close up of a person with tattoo on her legsa tattooed woman with arm tattoo with a tattoo tattooed anklea person standing on a wood floor in black shoesa man's legs, woman in green plaid socks, a woman in redtwo tattoo tattoos that show a bird on a woman's lower thigha close up view of a tattooed woman standing next to an odd figurea woman with tattoos on her arm and a piercinga person standing near the catpeople standing wearing black leather old shoes womenpeople in tattoo tattoos are wearing clogi platform shoesa woman with a stick tattoo, sits on a chaira black pair of feet wearing black shoesthe tattooed arm and feet of a woman standing next to another woman wearing blackpeople at the reception standing, in black clo gay gay bar tattooed tattooa tattoo is tattoo on a black shoetwo legs facing each other in tattoosan adult standing with a tattoo on a woman's thigha woman showing her foot tattoos while standing
+Question:is there a woman with a tattoo on her ankle?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between brambling, great_white_shark, electric_ray, tiger_shark
+Answer: a tattooed woman with a tattoo on her ankle
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a drawing of two birds that are standing next to each othera pencil drawing by jennifer taylortwo birds are walking on the grass next to each othertwo birds with heads open standing in a grassy areatwo birds sitting in a grass field in line drawing stylea couple of birds sitting on top of each other while perched on a brancha couple of birds sitting next to each othera pair of grey crowstwo grey crows sitting in a line on a dark daya pair of crows from the bird sketch seriesblack birds in ink drawingtwo birds sitting on top of a fieldtwo crows are sitting in the grass talkingtwo birds that are next to each othera drawing of two birds next to each othertwo birds drawing on white paper on a chairtwo birds are close together on the grassbird and raven, two sitting head to head in graphitetwo birds sit on top of a patch of grasstwo small birds are sketched sitting on the grassa beautiful drawing of two crows sitting on the tree branches tattoo images, drawings andtwo birds standing next to each other looking aroundtwo birds are shown side by side and the birds are a yellow birdtwo birds in the grasstwo birds that are standing together on a white backgrounda realistic drawing of two birds on a perchtwo ravens love each othertwo birds sitting next to each other sitting sitting on a wiretwo birds on a sunny day sketch by persontwo birds are looking different while beaks speak
+Question:are two birds sitting next to each other?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between indigo_bunting, tiger_shark, robin, goldfinch
+Answer: a picture of a bird sitting on a tree branch
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird sitting in water with bottlebrush and bottlebrushthe bird that has a red bottle brusha bird with a red bottle fill flower hanging between it's feathersa bird standing on a leaf next to flowering flowera bird that has feathers and red flower insidea branch with a bird and red flowers with a flowera dead bird perched on a plant outsidea bird holding red feathers on this blue surfacethe bird is holding its red flower with its beaka bird perched under a tree branch, and red flowera bird next to red flower looks like it's enjoying its fresh batha dead fish hanging from a reed leaf brancha bird is flying around a dead white birda bird standing in the water near a red flowerthis bird is looking for food and its red bush of feathersa bird is standing on a branch with a bright red treecrocheta bird sitting on the neck of a tree brancha little bird is all that a flower of feathersa bird with the back and back of it, with a flowera bird is sitting on a branch holding a red tree bloomfinched bird hanging down to a tree with a flower in the foregrounda red flower in the nose of a bird sitting on the watera yellow breasted bird in full spring plumage hiding a bottlebrusha bird with a red flower is upside downa tree branch with a bird, branch, and flowering in the backgrounda bird perched on a branch with a flower and red featheringa bird with a red flower on top of its heada bird eating from a red - specons birda bird is holding a red flower
+Question:is there a red flower in a bird's beak?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between hammerhead, bulbul, tiger_shark, goldfish
+Answer: a hammerhead shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:it has its mouth open showing its large teetha shark with a big green teeth and a fang of sharp teetha drawing of a large shark with its mouth openthe shark with its mouth open is growlingan image of a shark is being attack with teetha cartoon image of a great white shark in a gamea painting of a very cute looking sharka shark with its mouth open, and a poster above it with an diagram writtena large white shark is open mouth with a long jawa drawing of a zebra shark in the style of a cartoonan angry shark with an open mouth is growlinga poster advertising some shark to a museuma computer screen showing the types of sharksa shark that has an open mouth and a shark moutha shark that is in front of a clockthe size of the shark on a white backgrounda computer photo of a shark that is next to fishmoom gentlemanonthe shark shark drawing has measurements of sharksa drawing that i made from arthrois monsmoon, a water wolfa very cute shark paper model on the beacha shark with its sharp teeth open, a very big teetha drawing of a predator, carcharoph hoomama hoofahthe information poster of a male great white sharka pink shark shark with a long white jaws and his teetha large, megalisabobium alligator carchadonaa shark is on this card from the sharka big shark with its mouth opena fish with its mouth open and some teethan animalized shark with its mouth openan angry shark with its mouth open open and its teeth missing
+Question:is there a shark in monster ho house?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between ostrich, great_white_shark, tiger_shark, hammerhead
+Answer: a shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bluebird on a branch news photo gettya lone bird stands next to small birds perched on a tree brancha black bird is standing on a branch and is looking forwarda small bird is sitting a drawing stock illustrationold engraved black and white drawing of a crow sitting in the grassa bird in a meadow is looking at something in the grassvintage drawing, black bird flying stock illustrationa bird sitting in front of two birdsa black and white drawing of a bird sitting on the grounda crow is perched on the ground and is looking up as he sits stock illustrationa drawing of a black - billed pip in flight stock photothe old - fashioned crow standing stock illustrationa sketched black and white image of an image of birdsa vintage bird engraving news photoan antique black and white bird with an interesting beak, looking to side, abird, flying, moths and sparrowingan illustration of the common song bird, vintage engraveda common american robinet in full black white stock photoa crow, vintage engraved engraved sketch stock illustrationa black and white ink drawing of a mocking bird perched on a branch stock illustrationa bird with two small birds flying nearbya wild bird perched on a branch vintage engraved drawingblack and gray bird sitting on a brancha bird and three birds are watching ita black and white drawing of a bird sitting on a brancha black and white drawing of a sparrow birdbird flying birds in flight stock illustrationa blackbird on white background stock illustrationa raven from a victorian black and white drawingan image of a songfully black bird
+Question:is a crow and a bird the same thing?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between bulbul, hammerhead, great_white_shark, goldfinch
+Answer: a black and white drawing of a crow sitting on a branch
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:pencil drawing of bird birda bird that is drawing and its name is persona bird sitting on a branch looking to be drawing the side of its bodya bird sitting on a branch with a plain backgrounda bird that is drawn with pencilsdrawing of small bird in pencil on tablea little bird that was sitting by the walla bird looking at the bird in gray colorsa black and white bird bird sits on a branchsketch of bird on branch in black and whitea pencil drawing of a bird that is standing on the grounda pencil drawing of a little bird sitting on a brancha small bird is sitting on a tree brancha drawing of a small bird sitting on top of a piece of papera small bird sits on a branch drawn by a drawing techniquea small bird standing on a brancha pencil drawing of a bird sitting on a brancha silver bird sitting on to of the branch of a treea gray bird with an owl facea bird in grey sitting on a brancha bird sitting on a branch perching on the white papera still bird sitting still on papera small bird is sitting on a brancha pencil drawing of a bird sitting on a tablea small bird sitting on a twig on a sticka person in grey perched on a branch against a white backgrounda small bird is sitting sideways while looking awaya close up drawing of a bird with a blured backa bird in grey and gray is sitting on a tree brancha bird walking in the grass drawing
+Question:is a bird sitting on a branch a pencil drawing?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between goldfinch, goldfish, hammerhead, indigo_bunting
+Answer: a bird sitting on a branch
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:dogie stinger laying dog laying doger is by someonea sting that was in the water by someonea dog and his stinger slippers in the watera foot of a dog that is sticking out of a sand hata horn horn that says it is the trumpet blowetstingy animal on a beach in a shallow slip sandala little nose dog looking into the watera cat mask that looks like a stinghide sting sting shoe on the sanda stingy foot poking out of the water on a dock with a bellboat boaters can swim near a sting dog sitting back a righta dolphin and a flip flops in the sand next to the shoesa shoe near the water and a monkey with his feet in ita stingy hip hat is sitting next to barefoot baby sandera dog horn that is sitting on dock in watera dogy dog laying beside a dog horn in the oceana dog with sandals, with two toes, and a dog sandalsa dog head, and a boot that had caught a bone in some waterslippers and sandals next to a dog bell on a docka sting stingbeeder's flips and slippers sitting on the edgea male in brown shoes standing a sting dog on a pierunda dog nose that has a shell in it next to shoesa raybull sitting on a pier near the watera sting dog with a disk sticking out of a water holea skateboard in the water and a worn dog helmet next to other sandalsa dog horn sits in the water with a dog pawa dog's slippers are next to shoesa capula on the dock beside a pair toe sandala shell is on the boardwalk in the waterrayy ray on a dock cap near water
+Question:can you swim near a sting dog?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between great_white_shark, hammerhead, ostrich, stingray
+Answer: great_white_shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:blurred photograph shows cat's tail inside the eyea blurry photo with a blurry relation and a person riding a horsea white and red cow at a wood stovemotion zooming of several different animals in the picturea close up shot of some food and a blurry imageseveral white and brown horses in a circular motion blurredblurred photo of some animal walking in the dirta blurry picture of a herd of sheep grazinga blurry image of cattle and their clocksa horse with a blur effect coming in from behinda blurry shot with some light shining through the imageblurry photograph of white cows and a red eyea clock is blurreded with warm light in the center of itan abstract clock painted to look like the shell of an animala red eye with large eye ringspicture of a horse, with blurry backgroundthe picture shows a blurry image of cowsa blurry image of a table of fooda blurry picture of plants on a tablea big red face with horns in the foregroundblurry image of three white horses standing close to each othertwo chickens in a yard with the back of their head glowingtime blur, abstract blur time photo blur of blur looking abstract abstract blur focus blurreda blurry photograph of an image taken through a lensblurred blurred blurred blurred abstract motion close animal abstract image and blurred blurred and blur abstracta motion painting with no light and no colorsa blurry picture of a herd of bulls and their herdsblurry image of animals and calfs and firethere is a photo of a rooster and chickens eatingabstract photo of sheep in pasture against blurred background
+Question:can you see the reflection of a clock in a blurry picture?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between hammerhead, ostrich, electric_ray, indigo_bunting
+Answer: a photo of a hammerhead shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a spotted stingfish fish with blue spots and a spotted stinghobethis is a stingperzu fish that could have some fun getting donea very large fish with a blue and yellow eyelinera fish with blue spots on its head and a spotted stingfisha blue and white sting stingper is swimming on some sanda small blue spotted stingfish is sitting under watera blue stingfish on the floor with a yellow ball and mini fisha ray spotted stingray that is divingthe blue spotted sting fish are very popular to humansa blue ray stingper fish in the water near the oceana blue spotted stingper in the shallow wateran spotted stingfish spotted with blue spotted spotsa blue spotted ray with large bill sitting on the grounda fish with a green fins lays on a rockan animal on the ocean floor has a blue dotted sting rayan animal is swimming on a sandy oceananimal with a blue dot on its fur is walking on the sanda blue eyed stingray on top of two sea creaturesa small stingfish that is sitting on some sandskatefish fish with white background and large blue fish tail and sharp finsa blue and white fish is shown on a bed of sanda blue and white fish on the coasta large blue and blue animal under watera spotted stingray swimming over a coral,a blue spotted stingfish swimming into the oceanblue sting sting ray with ocean sting sting sting sting raya stingfish and three other fish are seen togethera spotted stingfish and a spotted sting sting sting ray fisha blue spotted sting ray glider in an oceana long propellerfish fish with an open beak
+Question:is a blue spotted stingfish and a spotted stinghobe the same thing?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between ostrich, robin, stingray, bulbul
+Answer: a blue spotted stingfish and a spotted stinghobe is a stingperzu fish that could have
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:an open flower with a large blue flower insidea close up of close - up of a camera panasya picture of a large object with large, dark and orange dotsa close up of a green green object on a blurry backgroundmotion abstract fish abstract photograph image motion the image macro abstract shallow a flying blur blurreda mosquito rayfish is moving through the waterblurry photograph of sea slug inside shella big black flower that is in a rooman artificial iris of an iris iris that is all green and blacka eye with many eyelashes is very close upa picture very blurry of a ray movinga tooth brush in the foreground with an image of a green toothbrush inan abstract picture of the side of a male sting sting sting fisha close up of a water jet with the water movinga close up of a sea urawblurry effect of a fish with eyeball at topfish eye with camera viewa manta ray moving across an orange filled areaa sting sting lizard is sitting inside of a blue bowla close up of a large fish on a radioa blurry, distorted photo of several pieces of fruit close upa manta ray fish with a shallow underside in front of an ocean backgrounda blurred reflection of an outside eye and motion of a persona plant with a big seed that is inside ita fish that is very close up with blurryphoto of photo of a bird eye sting stingray in a bath divea bunch of green stuff that is on a toothbrusha close up of a bunch of strawberriesa small sting ray crawling in the skin of the eyea fly fish with its fins open and is flying
+Question:can you see a sting ray in a photo?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between great_white_shark, bulbul, electric_ray, ostrich
+Answer: great_white_shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird sketchesed a bird in a line drawinga line drawing sketch of a bird sitting on a brancha cute little bird on a post in a treea bird is sitting on a post in graph drawn and graph sketch on papera bird sitting on a branch with it's beak closeda bird that is drawing and sitting on a brancha bird perches on a wood plank and watches for foodbird pencil drawing of a bird drawing birdsblack, white and brown bird perched on tree brancha bird on a tree stump is a very easy drawing techniquea bird sits on a perch on a treelittle bird sits on a branchpencil sketch of a small bird on top of a tree stumpa small bird is looking around and looking at something behind itbird sitting looking out to looking birds, birds, sparrow bird sketchdrawing of a bird looking in a bird profilea bird sitting on a branch on a white ground with a white backgrounda bird by a white background with a white backgrounda bird standing on a wooden fence postthis is a bird on a piece of papera pencil drawing of a birda bird with a long tail perches on a wooden posta small bird standing on top of a wooden stumpa black and white photo showing a bird on a brancha picture of a bird on tree branch of a brancha bird is staring into the side of the treea bird on a branch sitting on a branch, pencil drawinga bird sitting on a tree branch tree branchbird drawing in different perspective of a birda bird is a drawing of a bird sitting on a tree branch
+Question:is it possible to draw a bird on a tree stump?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between robin, tiger_shark, indigo_bunting, electric_ray
+Answer: a robin is sitting on a brancha tiger_shark is sitting on a brancha ind
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a leaf is the focus of this picturea white owl and an orange on a framea yellow umbrella is blurry in an motion of lighta cat in motion blurers with an orange umbrellathe image shows a blurry image of a backgrounda yellow umbrella being left out into a colorful photoumbrella, autumn, photography and yellow umbrellaa yellow yellow umbrella floating with blur a blur is the same color and it 'an umbrella with a yellow kitty face looking out at the cameraa colorful photograph of a hat made to cat face, with sun umbrellaa striped cat with an umbrella and a sun hata tiger in a blurry image holding a leafa blurry picture of an umbrella with a gold parasola leaf laying on top of a yellow hata purple yellow blue green yellow umbrellathere have a yellow owl figurine sitting under an umbrellaabstract image of a cat that is hiding behind a sun umbrellaa person standing in front of a blurred flowercolorful watercolor photograph with a yellow umbrellaa yellow umbrella that has an umbrella yellow inside that is yellowabstract abstract image of a yellow cata blurry photo of an umbrella and a persona yellow umbrella is yellow - an orange - two umbrella is opena yellow umbrella is in the shape of a catfall falling yellow leaf in a framed picturebrown kitten with yellow and orange umbrella and hata cat with an umbrella and a signa bird with an umbrella on its headcat with an umbrella that have an umbrella yellow and yellow umbrellaa fish with a yellow umbrella on it's head
+Question:can you see a cat in a yellow umbrella?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between robin, goldfish, electric_ray, stingray
+Answer: a robin
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:an image of a bird and flowersa bird with many flowers all over itan image of a bird perched on the side of leavesa close up of a bird in a tree with flowersa little bird sitting on top of a white grounda bird that is sitting on top of a planta pencil drawing of a bird perched on a branch with a berries and flowers ona small hummingbird perched on a bird nesta hummingbird sitting on a branch of flowera bird with a floral arrangement sitting on a tree brancha bird on a white background, in a black and white illustrationa black and white drawing of a bird with a leaf in the eara small bird perched on a branchpencil sketch of the birds, bird and flower wreathsa hummingbird with a flower nest filled in little flowersa little bird sitting on a branch next to itselfa bird sitting on top of a leaf covered leafa small bird perched on a branch in a black and white drawinga small bird perched on top of rosesa black and white drawing of a bird sitting on a brancha bird with a black eye sits on a brancha bird with a black bird perching on leavesa bird from a black and white drawinga bird sitting on top of a brancha bird perched on a branch with flowers in the beakan illustration of an hummingbird bird in full flowersblack and white bird sitting on branch with small flowers and leavesa drawing of a bird on a brancha bird sitting on a plant coloring
+Question:is a bird sitting on a branch with leaves?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between ostrich, indigo_bunting, goldfinch, stingray
+Answer: a bird sitting on a branch with leaves
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a tattoo on a tattoo snake with butterflysomeone has red nails on his feet with a small tattooa girl's tattoo shows a dog on the bottom of her foota black photo of a flower with a stick and flower on itbutterfly with a dragon tattoo tattoo is on the feet of a persona foot tattoo with a bird design is on the left side of the feeta tattoo with butterfly and humming symbol on the left side of footsmall black decorative scorpion with tattoo design and black design on itsnake tattoo snake tattoo and scorpion tattoo tattoo on footlegs with a tattoo and lizard with small temporary tattoo designs on each foota hand up with red nail polish looks greata tattoos on two fingers on the foota person wearing red fingernails and a red nail with a red base colora small tattoo lizard and flower on the foota woman's shoulder tattoo sits on her body and has red nail polish ona plant with leaves and a pink mani nail red nails,a tattoo and black dragon tail tattoo on a woman's foota tattoo on person's left leg showing her foot tattoo tattooa black tattoo and a black girl's left foot tattooeda photo of the tattoos on the side of a lady's bodya tattooist foot with tattoos on a girl on a tattoothe butterfly flower design on the skin has black inka small snake tattoo on a girl foota small tattoo tattoo with a small flower and tattoo rosea tattoo on the barefoot of a person with tattoo on footthere is a small tattooed tattoo on the armred mani red maninail and red red red red fingernails manisomeone has a black tattoo on their foota tattooed butterfly and flower on a person's foota very foot tattoo
+Question:can you get a snake on your feet?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, robin, electric_ray, ostrich
+Answer: a stingray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a white and black bird with two birds feedingbirds sitting on their back together, one feeding anothera bird feeding another bird on the headtwo robinpes feeding young birds with wings outstretchedbirds, baby bird and chick drawing by nitiar mom and offspringthese two birds will mate to the young one's beaka pencil drawing of two birds sitting on top of one anothertwo birds flying with their feathers folded over to flytwo small birds with one feeding another birda pair of birds sitting in the aira pair of birds feed from a branch with two birds perched next to themtwo birds that are jumping up into the aira pair of birds flying over a couple of birdssome bird drawing pencil birds photoa couple of birds are talking to each othera couple of birds on a branch near a brancha couple bird and a birdtwo birds sitting on a branch with black and white markings on itbirds sitting next to each other and a bird flyingtwo birds that are sitting on birds on a tree brancha father and birds feeding mother birds black and white colorsbird flying with a bird like a song to eatbirds flying with their wings spread, one is feeding another onethe birds are flying near each other eating the chicksa couple of birds sitting on a branchfour birds peck - feeding on leaves at their nesttwo birds are perched on branches and one is in the airseveral birds flying and a cat is laying on the groundtwo birds are flying away from each othera bird feeding a bird with the other bird in its mouth
+Question:are the two birds in the picture a pair of robinpes?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between electric_ray, goldfinch, indigo_bunting, brambling
+Answer: electric_ray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:an ancient rug with animals and two bearsdecorative needle case with a head of jesus surrounded by flowersthe rug has multiple colors of flowers on all kinds of ita blue and white cross in the center is made of black and yellow flowersa beaded picture frame with yellow flowers and skullsa statue in an ancient city in a cross stitch stylestone a a painting at a a picture a it piece and of of the ana painting depicting a man on a large chest in a museuman old pouch is sitting on a tablea large wooden box is sitting on the deska picture of an old style purse with a cross over topdisplay on embroidered hand tapestry tapestry embroidery,the pattern has been woven on with a bouqueta white and gold booka yellow and blue square with flowers on ita purse on a table in a dark rooma large rug woven with a gold building surrounded by animalsa group of monkeys on a rug in a museuma very old purse with bunches of flowers on the frontwood carved a close mummy on writing a egyptian mummy a a wall a picture thelarge, ornate tapestry has designs and colorsa glass in a glass box at a white framethe side of a pouch decorated with large flowersa small cushion with an ornate designa small piece of furniture is displayed with a gold coat with flowersa cross on a cross surrounded by small buildingsa bag with an elaborate design is on displayan old - fashioned picture of a man with an old bearda little wallet with flowers on it and a ribbonthe picture shows an old vase with flowers on it
+Question:is there a cross on a cross in egypt?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between robin, hammerhead, goldfinch, goldfish
+Answer: a picture of a man with a beard
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:how to work on a star pigeonhow to draw a little bird perched on a rocka cute little bird is perched on a perchstep step step 2a drawing sketched drawing of an owl with big eyeshow to draw a bird for beginnersa bird sits on a coloring page, on a white backgrounda bird sits on a wooden branch and is easy to learn to drawa drawing of a bird sitting on top of a piece of woodan adult bird is drawn in this black and white drawing illustrationa bird in a line drawing stylea little bird coloring on a white sheet of papera bird that is commissioning, with a big eyessketch of a bird with an over the head strokea bird that is colored and outlined in pencila blue grey bird birds is on a picturehow draw a person with simple pencilsthe drawing of a bird is coloringa small bird standing on top of the coloring pagea bird how to draw a small birdstep 2 step step step many more more more more more more about drawing nesting hena bird sitting on top of a posthow to draw a finchbird sitting on a brancha drawing of a cockle bird that is crowed downa drawing of a birda drawing of a white bird to learn to draw a birdhow to draw a sparrow step 7an adult drawing a bird using how to draw itstep step 3 for how to draw a birdhow to draw a bird with an expression that says a hole
+Question:can you draw a bird with a pencil?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between great_white_shark, electric_ray, brambling, tiger_shark
+Answer: great_white_shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:two birds are resting on a tree branchtwo drawings in black and white birds sitting on a tree branchtwo birds on top of a flower that looks like it is flyinga bird that is sitting next to a flowera drawing of a bird on a flowertwo small birds perched on a brancha bird with a nest in its beaktwo birds sitting on top of flowers and plantsa bird and two birds sketcheshot for the sketcha bird is standing in front of flowers and birdsa couple of birds are sitting together on a tree brancha painting of two birds in a treetwo birds perched on a nest in black and white drawingtwo birds are sitting on a branch of a planta bird next to some flowers by some leavesa gray bird perched on a branch with two pine conesbird drawing classbirds on nest filled with flower and bird with flowertwo birds sit on some plant with flowers in their beakbirds in flowers printable on white papera bird standing on a branch beside a planttwo birds sits on top of a planta bird perched on the nests of a treea bird sitting on a flower branchtwo crows are sitting on a plant and a bird is drinking at the fatwo small birds sitting near each other for an interesting artworkbirds, sitting on a branch next to some flowerstwo birds, one with a beaktwo birds standing next to a plant branch with blossomsthe bird and the cock are sharing a snack
+Question:is a bird sitting on a branch and another bird sitting on top of it?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between bulbul, ostrich, indigo_bunting, electric_ray
+Answer: a bird sitting on a branch
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird looking like a bird in ink on papera bird is drawn made of intricate human wire wireframea black and white bird with intricate feathersa bird sits on a tree branch, which is drawn in meshillustrated image of a small bird on a brancha bird sits on a small branch with a long taila black winged bird drawing on a white backgroundartistic bird by many lines - patterns, lines, and dotsthe detailed bird drawing is a long tailed bird with a long tail that is feathersa cartooned bird that i tried to draw has a black patterna small bird sitting on a branch perched on a brancha bird that is standing on its feet on a white backgrounda drawing of a bird with a long tail perches on a brancha small bird sitting on top of a tree branchsmall bird in black and white ink on lined papera drawing of a bird on a branchsmall long - billed bird perched on top of a stickan outline of a bird sitting on a tree branchthe bird is on a tree branch and it has long wingsa bird sitting on a wire drawing in a black inka bird perched on top of a stema picture of a small pretty bird birda bird is sitting and black and whitea bird in the form of a bird on a branchline drawing of a bird that is a black and white imagea small bird on a branch, black and whitebird in a pen drawing with a line art style patterna black and white drawing of a bird sitting on a branchbird from a bird of mind's mind by a - bird
+Question:can you draw a bird on a branch?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between ostrich, bulbul, brambling, goldfish
+Answer: a picture of a bird
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a drawing of a small bird on a branchbird on a tree branch by a white skya bird on a wooden branch perches on it perchinga bird sitting on a branch, with a blue eyesa bird on a white and grey background with a black and white backgroundlittle bird sitting on a tree brancha bird on a tree branch drawing by - goha bird sitting on a branch near snowa bird on a tree limb drawinga bird sits on a tree limba small bird on the branch of a treea drawing of a tiny bird perched on a brancha bird has a little black head and white beakthe small bird sits on top of the brancha drawing of a little bird sitting on a brancha small bird sitting on a branch holding a barbed wirea bird perched on a thin branch looking into the distancea black and white bird sitting on top of a branch of barbed wirea bird sitting on top of a branchblack and white bird sitting on branch with small bird perched near its heada bird is sitting on a tree brancha black and white bird perched on a brancha bird sitting on a branch with a profile and one small beaka pencil drawing of a bird perched on a brancha bird perched perched on a branch to be a portraita bird sitting on a branch of treea close up of a bird on a brancha small bird bird sitting on a brancha bird sitting on a branch with its head perchedbird is sitting on tree branch near the camera
+Question:is a bird sitting on a tree branch?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between indigo_bunting, bulbul, great_white_shark, goldfinch
+Answer: a bird sitting on a branch
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a large sting and a very long taila stingfish is swimming in the water with a large anchora cat is laying on its stomach under a long straight staira sting ray ray in the middle of the ocean coloring pagesan ink coloring page of an animal sting finfinsa cat is moving towards a sting ray rayan animal a skate skate and a cat lying a coloringinga cattail swimming underneath a blade bladea drawing of a kite with an animal flying through the aira drawing of a bird swimming on watera fish eating another sea sting in the oceana line drawing of a stingfish with a fish swimming beside hima ray ray ray ray and a fish that is laying down on the grounda cartoon fish with a boat crab that is looking up to the grounda stingper fish that is swimming on stomacha dolphin laying on a fish with a fish leashan sting sting in the white backgrounda whale jumping out of the water and a narviean sting ray swimming in the ocean with a lizard on the sidea long worm and sting in the ocean, with a sting sting on the sidea drawing of a manta in the palmsting seal with fish and an animala skateboard is submerged near an anchor with long bladesa boat swimming close to a sting raya sting ray rayfish swimming in the wateran illustration of a sea with a stingerine and stingfisha spotted whale ray and a squidthe stingfish caught the sting fish and long necka swimming ray ray raysh swimming through a neta stingaboous swimming along a body of water
+Question:is a stingfish and a sting ray the same thing?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between robin, goldfinch, goldfish, stingray
+Answer: a robin
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a flower near the water with wateran orange fish with a black eye in a tankfish jelly green a a fish circular jelly an blue yellow fish sea blurred water greena jellyfish is seen on this close up photoa big flower growing out of some dirtthe flower is growing long and bright yellowa fish looking at a fish tank with it's fish eggsa jelly fish in a fish tank with blurry lightsa jelly fish is showing its underside in a fish tanka jelly fish, underwater, swimming in a tanka huge jelly fish in water with a blue green backgroundan octopus is in an aquarium with many small fishan animal underwater in water with small fish on ita yellow disk is a flower that is the sunfloweralgae in an aquarium tank with no one staring at itfish fish fish a a fish mushroom fish looking a fish close fish mushroom blow fruitthe top side of a goldfish in a tanka fish in the water, looking blurredlarge tooth brushing brush in blue bowl on countera big orange flower that is under the microscopea fruit inside of a glass tankfish aquarium underwater underwater a an under a por fish aquarium fish fish bright a abstracta close up picture of an orange in the middle of a sea bedthere is a jelly type thing sitting on the green trayan orange floating in a tank during a rain showera large fish is visible with bright lightsa red flower that is sitting in a glass aquariuma giant flower of orange with its leaves sprouting upthe fish that is in the aquarium is looking for fooda large jellyfish swims in clear water
+Question:can you see a jellyfish in a fish tank?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, electric_ray, brambling, goldfish
+Answer: a stingray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:six different styles of birds perched next to each otherfour different bird images set of birds, vintagea black and white photo of a bird with a beakfour birds sitting or standing in a black and white imagea group of three birds sitting and standingthree birds perched on both sides of a white walla drawing of birds royalty vector imagebirds and birds perched on tree branch stocksketches of sparrow - finch finch royalty images royalty vectora collection of colored and black and white birdsa group of the different birds with different body and heada group of birds sitting next to each otherblack and white sparrowbirds set vector art illustrationbirds for drawing and illustrationsa group of sparrow bird sitting near each other on the groundbirds illustrated in several poses, each drawing and sketchesa collection of four birds drawingvarious birds perched on the branches of branchesa collection of six different kinds of birdsfour small birds line paintings, drawn by pencilfour different birds are shown in this drawingdrawing of birds settwo birds sitting on a branch and a bird perched on four different birdsa drawing style of birds standing and sittingbird drawings drawn by a drawing of four or foura bunch of birds all in black and whitedifferent birds on a white backgrounddifferent kinds and sizes of birdfour different types of birds on perchesset of different bird birds a set of some bird bird
+Question:is there a set of six different birds?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between brambling, electric_ray, great_white_shark, indigo_bunting
+Answer: brambling
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:close up of a light reflecting off of watera view of an odd face which is floating in the oceanan underwater image shows some lights of streetlightsmany of ducks are in a large fish in the watera fish in the water swimming in a pond that appears to be a gas filleda sky filled with smoke a little bit of smokean orange object in a very cloudy body of waterthe fish is swimming behind the fish in a large orange bowlthe image shows a lake or lake of water that appears to be crystal cleartwo fish swimming in a lake with the reflection of another fishfish's lights underwater in a foggy watery imagean underwater view shows four square rock shaped like facesa big object of a distant mountain visible in venus's blooda light in the air that is emiting out of watera fish is flying in the ocean close to the oceana view of a diamond stone with a sky backgrounda yellow glow on the water of a dark seathe light that appears to be above and behind a rock in the fogthe volcano is very visible through the glassgoldfish floating in a dirty water body at the bottom of the oceana red substance in the ocean, seen through waterair jet on a small fogy field under watera fish in the water under water with a lighta large cloud of smoke coming from a hole filled with smokea close - up view of a small fish swimming under waterthis is a fish in the water with its back lighting ona view of a large body of water under watera diamond shape is shown below the watera fish in a stream of water on a sunny day
+Question:is there a fish in the water in venus's blood?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, hammerhead, electric_ray, brambling
+Answer: a stingray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a spotted stingper resting on the floor with blue spotsspotted fish swimming on a sandy ocean floora sting sting stingper resting on the grounda stingfish with spots and circles on ita close up of sting sting ray on the side of a roadblue spotted stingper swimming in the ocean, looking up at the cameraa blue sting ray sitting on the ground in the shadea sting sting is laying on the ground with blue spots on ita large sting fish with spot spots on the stingfish facespotted green sting stingler that was observed by a scuba sa large sting fish sitting down and looking straight into the cameraa spotted spotted fish sitting in the seaa spotted stingper with blue dots on the surfacea blue spotted stinger is seen from belowa large fish that has its blue and green colorsa stingfish on the stone stone sidea a sting fish sting sting underside sting sting sting sting sting sting laying blue aa spotted sting ray on an ocean fishan sting sting ray swimming around the watera large spotted fish with blue spots on itray that is lying down on some watera stingfish with blue spots on it's skin and taila fish with blue spots and blue spots on ita sting fish with blue spots is swimming next to another stingfishblue manta ray a big blue sting stingraytwo spots on a stingfish showing different colorsa ray fish is blue with many blue dotssting sting sting sting blue spotted ray blue sting spotted spotted blue sting sting spotted stinga very pretty blue speckled sting stinga
+Question:is a sting ray and a sting ray the same thing?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, indigo_bunting, goldfinch, great_white_shark
+Answer: a sting sting sting sting sting sting sting sting sting sting sting sting sting sting sting sting sting sting sting
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:hand drawn bird sketch, ink drawing of bird on white papera group of birds with fish in their beaksmany colorful birds in sketch style stock photo shutterstocka flock of birds with a ladybird and other plants in their beaksbirds in flight flying, isolated fabricseam of hand drawn birda pattern of birds on a branch stock photo ©a group of birds flying together over the grounda group of birds a bird is perched on a brancha pattern of birds flyinga flock of birdsa drawing of bird patternthe bird sitting on the branch seamless grayseveral birds and fish - stock photoa seamless background withblack and white seamless stock stock stock photo stocka bunch of birds sitting on top of each otherflock of different hand drawn birds flyinghand drawing of a bird on the branch with leaves and birda seamless pattern with a little bird eating an insectthe drawn bird, seamless of birds, bird sitting onflying birds stock photo © © / isttofthand drawn black and white bird patternblack and white hand drawn bird seamera drawing of a black and white birds stocka very nice birds - drawn background backgroundsparrow pattern pattern flying finch bird drawingan oriental bird with reed reeds stock photo edit isa very cute grey bird in the sky stock stockblackbirds and sparrow birds bird drawing, bird
+Question:can you draw a bird on a branch?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between ostrich, brambling, electric_ray, robin
+Answer: a robin
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:bird with red flower sticking out of side drinking from birda bird that is pecking at a fruit in the aira hummingbird is in the air with a red flowerred - billed bird sitting next to a bottle brush tree birdthe bird is resting on the red tree blossoma small bird sitting underneath an artificial red flowerbird carrying red red ball in sky with red flowers at its beaka bird with a red callbrush flower at its beaka white and black bird sits in a treelow view of a humming flying on a treea humming - bill sitting on grass in the skya bird perched on a tree branch eating a planta bird with red flowers, eating a pink flowerbird watching its prey in flight against a blue skya bird hanging on the branches of a tree with red flowersa bird with a red flower hanging from it's taila hummingbird takes flight while its perch is hanging on an brancha bird is hanging from a tree by itselfbirds in flight and blue sky with tree blossomsthe small bird is surrounded by a red fanflowera bird is feeding the bird to the grass under a blue skya bird sits under the callistet next to red flowersa bird that is sitting on a branch near a treebird in the sky flying low to the roofa bird hanging from a tall tree brancha bird sitting near a red blossom is blurrya bird resting on a tree branch with a red flower in the winda colorful red flower blooms on a bird all arounda bird looking up at a small birda red - rum bird sits and drinks from a flower
+Question:is a hummingbird sitting on a tree branch?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between great_white_shark, stingray, goldfish, bulbul
+Answer: a great white shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a collection of various birdsa set of birds on a white background with a white backgrounda collection of six birds in various posesa collection of different kinds of birds in blackvarious birds drawn in pencil illustration set birds line for animal sparrow sketchesfour birds sit on a white background stock photo edita bird bird bird is isolated from the animal on aa set of birds with variousa set of birds in nine different posesa group of birds sketch hand drawn stock bird pencilgroup of hand drawing birds birds isolated stockbirds drawing stock illustration 37864068many many sketches of birds sitting on the perch royaltybirds in the wild on white background in hand drawn stylesix birds drawing the back of each bird birdsthe different birds on set of birds to black and stockbirds, birds hand drawn set royaltya collection of birds various birdsa set of sketches of birds in various posesset of black birds isolated white gray bird stocksketch bird with the long neck and short legs, sitting near itssparrow birds set bird vintage vintage style drawing birdsdifferent kinds of birds set hand drawn linesketches of birds bird stock images, editorialbirds - vector hand drawn bird set of a pair stockan illustrated of different birdscollection birds birds bird isolated stock shutter shutter shutterstockbirds birds bird sketch vector vector set collectionbirds bird birds on the left stock stocka flock of birds with different birds stock
+Question:is a collection of different birds the same color as the birds in their original form?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between indigo_bunting, brambling, tiger_shark, stingray
+Answer: a collection of different birdsa set of birds on a white background with a white backgrounda collection of
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a colorful fish shaped stuffed animal sitting on a beda stuffed fish is resting on a bedone fish and a goldfish lying on the floorred toy red fish lying on the bed one is stuffed by the sidea fish that is red and orange in colora brown pillow with a fish pillow on ita plush fish is laying in a bed on top of a blankettwo red toyfish lying on a bed by a white walla red fish laying on a wrinkled brown sheeta large red fish sits on a brown colored quilted pada fish stuffed animal that is resting on a pillowthe red stuffed toy of a fish and a red stuffed doga red teddy bear laying on a blanketred fish sitting on the bed of a red bedthe red fish fish toy sits on the blanket of a beda fish figure in red lying on the floora red fish stuffed animal curled up lying on the floora large, fish and fish fish are laying on a pillowa red stuffed fish with two red stars lying across ita fish dog that seems to be laying down on the floorred fish sitting on top of yellow sheeta stuffed red fish sitting on top of a bed topthe red fish has a mouth for a fish to eata red fish stuffed toy on a beda red nosed fish stuffed animal is in a very nice beda red stuffed fish fish on a beda fish fish plush fish, laying on a beda small stuffed fish doll on its sidea fish is laying against the walls on a bedthe red monster creature, the red monster, is small
+Question:is there a fish on a bed?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between goldfish, ostrich, indigo_bunting, electric_ray
+Answer: a fish
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a photo blur blur blur abstract blur a a blur a a a a a alarge orange fish fish in the darkness a sky full of orange lighta blurry picture of light and fire in bright flamesblur the blur a a light orange colorful camera exploding blur a a fire motion blura blurry image of a large explosiona close up of a red star being blurredthe close up picture of a blurry image of a skyviewa blurry photo of a camera motiona blurry photo of a person bluring the camerafire space space a abstract a blur focus an explosion light burst shot fire movement movementthe back side of the large abstract picture shows blurry light and a fire burnsthere is a very blurry image shot of a night shotan abstract photograph of a space filled with bright lightsan orange orange sun in a night sky, with a long exposured photo ofa blurred shot of blue sky and a red firea colorful image of a sunflower in motionabstract time - an shot bo red blur abstract blurred blur as blur orange blur blura view of a galaxy with bright and colorful lighta flower in an abstract space scenevery orange star with a red orb in front of ita picture of a very big bright firea photo from the sky shows a blurry flashing light flash - imagea moving a motion fire blur abstract photo a a blur blurred a an a blura night sky with bright flash like lightsa very blurry image of sunlight is movingblur abstract - blur space the blurred a focus photo blurred abstract blur blur abstract blurthe blurred blur of fire coming out from inside a buildinga blurry rifle shot with slow lensa blur blur photo by a blur as fire flames fly in the backgrounda black - and - white blur photo of an over blurry freddy
+Question:can you see a red star in a blur?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between electric_ray, indigo_bunting, goldfish, brambling
+Answer: electric_ray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:flower budding that has a light show that looks uniquea dandela seed and the light shining from ita poppy flower that has seeds on ita poppy head with green, yellow, pink and green leavesdandelflower seeds against red pink tulipan abstract dandel flower with a seed headlarge dandel lily head on a blue background with golden pollena dandelflower seed looking like a sunseta large dandelium, on a bright backgrounda picture of a seed in the middle of a picturea large seed that is in the middle of a flowera flower with colorful blurry in the backgrounda dandelflower in a square square photoa poppy flower blooming slowly in soft focusa wild flower with seeds and pink flowers on itan image of a seeds of a plantthe picture shows a seed heada large seed flower that is looking into its spiky stema dandel flower photoa flower that is blowing out of ita close up picture of a flowera very close up photo of a flower on the cameraa flower in a square phone casea seed of plant with its seeds spinning arounda dandelas seed, against a photo frame framea flower sitting on top of top of a black platesome seeds of a dandelium seed looking to dry dandelium seedsa flower blooming to the inside is paintedsome flower seeds look like it is being blown downa dandel that is exploding in the air
+Question:is a dandela flower in the middle of a flower?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between bulbul, goldfish, stingray, electric_ray
+Answer: a picture of a flower
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a drawing of a small bird on a brancha picture of a very cute bird looking like a little birda picture of a small bird with black stripesa drawing of a sparrow sitting on a twiga drawing of a bird with words drawn over itthe bird has a quote written on the branchan ink drawing of a bird with latin writing below itthe small bird bird is inked with pen and inka bird sitting on top of a tree while i'mhussimisana drawing of a bird that has a black and white backgrounda bird is shown drawing on a piece of papera bird sits on a tree branch with a quotea close up of a bird on a branch with a quote for a birda bird sits on the branch of a treethere is a little bird on a white table with the paper whitean ink drawing of the bird perched on a tree brancha small bird sitting on a branch of a treea black colored small bird perched on a tree brancha cute little bird sitting on a branch of a treea black and white bird drawing on white papera small bird by bushmus musea black and white drawing of a sparrowa drawing of a bird he husten him humist his human bird, huma little bird perched on a branch near a brancha bird sitting on a branch that says hima bird sitting on the branch of a treea drawing of a bird that is perched on a brancha drawing of a bird sitting on a brancha close up of a bird drawn by a birda sparrow bird is sitting on a branch
+Question:is there a bird sitting on a tree branch?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between robin, stingray, indigo_bunting, brambling
+Answer: a robin sitting on a branch
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a horseshoe - tail horse fish ear coral by a mana sting leaf with paper attached and two legsan origami or red horse that is shaped like a horseshoetail taila red horseshoetail fish is laying down on a surfacea sting fish made out of paper, on a tablea horseshoe ray raya is laying on a tablean sting stinger is laying on the grounda bright red horseshoetofe has long curved tail shaped like a horseshoefisha large paper horseshoe fly that has a long leaf attached to itclose - up of a bright, orange umbrella sting ray fisha close - up of an orange paper umbrellashe is lyinga close up of an animal's face made from red papera fancy orange umbrella with a large feather on ita fish ray rayfish is laying downa horseshoefish made out of paper, with the tip upa large horseshoefish tail shaped like a stingera sculpture of a horseshoe fish on a tablea picture of a horse mackled fish heada stinger fish shaped like a human headan orange sculpture made of a sting ray ray fishan orange horse poi with a long leaf on ita very nice looking sting rayfish from underneatha red umbrella fish with a long curved tentaclescloseup of red horse hat leafan origate is made of orange liquida single leaf is being folded upside downa very nice lobster with an orange bodya horseradd head on white with red hairan apple fruit paper sculpture with a leaf on it's headan origa fish that has its legs folded by folded paper
+Question:can you make a horseshoefish out of paper?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, indigo_bunting, hammerhead, robin
+Answer: a stingray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:snail head and small plastic items underneath watera dead dead fish in the ocean is covered by shells and pebblesa dead shell covered in water, with another shellbird under water staring for food in the middle of the daya bird underwater in a shallow body of water holding a snail branchdead bird in shallow waters surrounded by shallow reef grassa dead fish lying on the sand under the red seaa fish is under water looking at a brown stone underwaterthe bird shell on the ground it has a shell in the grassa bird that is on the grass under watera little bird inside of shallow clear watera shoefish laying in the green watera gray and white bird laying on the sanda bird in the ocean under the water under the seabeda bird laying with a big ball in the watera dead little bird in the ocean with fish swimming in ita bird is on the shore of sand in the grassa small bird is in the shallow grassa little bird is swimming amongst the grassa bird and a pigeon sitting in the underwater foresta bird is caught under the water and the fish is deada bird, under the water of low tropical areaa bird sitting on top of water with long green grassan egg under the shallow water in the watera small fish in water with its eyes closeda broken bird laying in a shallow coral with grassa bird that is laying on some dirty watera lone bird with no feathers under water
+Question:can you see a dead fish in the water?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, hammerhead, robin, electric_ray
+Answer: a stingray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird with a big blue eye, sketch by persona pencil drawing of a bird by some kind of objecta white and black bird with a blue eyesa small bird has large big eyes next to ita bird on a white background, a drawing of ita black and white drawing of a bird with large eyesa bird of birding in a pen drawinga bird on a white backgrounda small bird sitting on a branch on a white surfacea drawing of a bird sitting on a branch beside a whiteboarda close up of a bird with a eye on ita black and white drawing of a bird in front of blurred backgrounda bird is standing on some soila drawing of a bird standing on a white backgrounda bird with a long tail on a white surfacea small bird stands on a white surfacea bird that is drawing by a pencilan image of bird from a birdie sketcha black and white sketch of a birdbird on a white table with different eyesan image of a small bird eyeballs the skya bird bird to be traced on a paper sheetthis drawing is of a bird sitting on a nesta drawing of a bird on a pagea little small bird sits perched higha drawing of a small bird on a white pagea drawing of a bird with a very short facea bird in grey looks intently up
+Question:is there a bird on a white background?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between ostrich, tiger_shark, hammerhead, indigo_bunting
+Answer: a hammerhead shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a stingr fish drawn in doodle stylesting stingy swimming in the ocean coloringa stinga smiles while lying on top of its chesta stings stingper fish in the watera sleeping sting stingfishthe sting sting ray stinged outlined by the continuous outlinea salmolo swimming icon vector | price $ 5 50the outline of a shoe with the eyesstinger fish line drawing in white backgrounda sting stingper fish outlined on whiteskate sting stingy the stingel black outline on whitea face that emotionsa sting sting stinger is floating under watera sting stinger is a large and beautiful animala stingy face drawn on a white backgroundstinga stingy ray sting stingy from sting sting on white backgrounda stingle that is drawing in a black and white line shapea soy bean in black and white stylea cartoon sting ray on a white backgrounda drawing of a crocodile in cartoon drawing stylestingy fish swimming on a white background vector, isolateda sting stingier fish face eyes cartoon stylea stingy eyeless stingy drawing on paper vectora stingfish of the smiling face in flat vectorsting sting rayy linear drawing line onstingback in the foreground with a white backgrounda sting ray with the eyes closedstingoon fish that is cartoon in a flatstingy or stingy stingy on a white backgroundstinge ray ray swimming and stingy - stingel vector
+Question:is a stingray and a sting ray the same thing?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between brambling, stingray, goldfinch, robin
+Answer: a robin
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:black and white drawing of a bird perched on perchan ink drawing of a bird sitting on a branch of blossomsa black and white bird perched on the branch of flowerpencil drawing of bird on branch on white paperillustration of a bird sitting on a brancha cute little bird sitting next to a dogwooda drawing of a little bird, by a drawing artista bird sitting on a branch with a flower around ita bird sitting on the wing of a white backgrounda small bird standing on a tree branch next to a flowera bird sitting on top of a branch of fruit blossoma bird standing on a branch with flower blossoms in the backgrounda pencil drawing of a bird on a flowery tree brancha bird sitting on a branch of tree blossomsa black and white bird sitting on a branch of a treea small bird perched on top of a flowera small bird standing near a flower of flowersa bird perched on a branch with flowers on ita small bird with long wingsa small black and white bird sitting on a branchthis drawing of the bird is of some sorta small bird sitting on top of a blossom brancha small bird with black and white feathers on and flowersa bird is perching on a white papera bird sitting on a branch of a flowera small bird sits on a branch near an blossoma bird sitting on a small flower petala bird sitting on a flower branch near white flowersa bird seems to be watching what's on the ground
+Question:is a bird sitting on a branch of a tree?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between indigo_bunting, bulbul, ostrich, electric_ray
+Answer: a bird sitting on a branch of a tree
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a small bird perched on a branch of a treea black - capped bluethl sits on a branch drawing by hand inksmall bird with grey and brown colors while perched on woodena bird with a brown beak and a bird, sitting on a treea little bird and a black - colored sparrow birda bird that is sitting on a woodenlittle bird is sitting with a small bird sitting on its beaka bird is perched on a tree with head turned to the sidea black bird with gray and white feathers sitting on a piece of wooda black and white bird and a brancha bird sitting on a stump looking at the cameraa bird perched on a tall branch perched up to the sidea bird is sitting on the side of some stumpa bird sitting on a branch in a drawinga bird on a tree branch and bird, that's the same colorsa bird sitting on a stump that is drawn by pencila little bird sitting on top of a treea bird that is sitting on a treea bird sitting on a branch in a black and white paintingthis is a drawing of a small birda black and white drawing of a bird with a big nosea bird perched on a treea painting of a bird by a pencil drawingan bird is sitting on a piece of wooda bird perched on top of a treecute bird perched on tree branch in pen illustrationa bird perched on a tree branch sketchan engraving of a bird perched on the end of a tree trunka bird sitting on top of a wooden piecea bird sitting on a tree branch and looking from behind
+Question:is a bird sitting on a tree stump?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between robin, brambling, indigo_bunting, ostrich
+Answer: a robin sitting on a tree branch
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:the image of a blue polymer sculpturea close up photo of a large bird with a string bracelet around its wingsa butterfly shaped broochee with a large bodya blue and purple broochee with silver swirlsa piece of art which is sitting like a triangle or trianglea green and purple piece of cloth that has a decorative patternan artistic object made of polymer, gold rods and blue glassa close up of a brooch that has feathers on ita butterfly is painted with brightly irl and silvera butterfly sitting on top of a purple and green feathera beautiful sculpture that is sitting on a feathera beautiful colorful polymer art is displayed in front of the cameraa leaf a peacock bird fly on a stone floora small butterfly that has wings spread opena close up of leaf painted with blue, yellow, green and blue pigmentthere is a butterfly shaped animal on the groundglass pendant with blue and blue pattern set on a brass metal rodan intricate kite that has feathers and feathers on itthe butterfly pendant is covered with colorful colorsa blue and green butterflyfish on metal bobbyka multi colored abstract art on the blue and purplea blue and green pendant has large feathersa blue and purple butterfly with swirl designsblue a triangle ceramic polymer blue a fused peacock a beautiful and blue polymer blue bluea blue broach sitting on top of a gold stickthe butterfly wings are adorned with an unusual blue green peacock feathera small leaf covered with a design painted on ita very pretty blue and green necklace on a rocka blue - winged hawkbird with green feathers hanging from it's taila colorful hairclff sits in the shape of a butterfly
+Question:is there a butterfly on the ground?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between hammerhead, stingray, indigo_bunting, ostrich
+Answer: a hammerhead shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:the view is really blurry looking at the person riding his skateboarda man on top of a surfboard on a rampa man looking down into a forest at the tennis racketmotion blurry dion } blurryetaing blurred photograph of skateboarder ridinga man walking away of a blurry photo of a tree backgrounda picture of a circular image with one of a person doing somethingblurred motion at a person walking on stairs to the top of a mountaina man wearing glasses is outside in the woodsman on skateboard on a sunny day looking into the woodsa blurry movement photograph of a man looking arounda person wearing goggles looking at the camera in widescreen cameraa blurred image of man wearing a tennis racketa person riding their skateboard on a blurryannaa tennis racket is spinning on a courtthis is an image of a young man staring at the wateraerial view of trees from a forest view of a circular lensa lens view light abstract eye photo shot eye blur close this a he a aa blurry photo of a person with gray hair facing at the cameraa person with glasses is resting on a picnic bencha bird eye in a motion of trees, looking upwarda person with a a hoodedie on the side of a skateboarda man is leaning against a wall on his tennis racketa boy with a skateboard in motion blurred imagea man is walking and looking at somethinga blur background of motion of treesa person is playing tennis on a ponda person is playing a tennis game in the parka close up of the blurry of a person going pasta blurry photograph of a forest in the sunlighta man holding a piece of string on a green area
+Question:can you see the sun through a tree in this photo?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, indigo_bunting, robin, bulbul
+Answer: a picture of a man with a tennis racketa picture of a man with a tennis racketa picture
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:fruit bat hanging upside down and looking into the skyfish head with two big horns, one eyes and a nosea black and white drawing of a pig sitting on a twig postsketches of a flying fish drawn by a pena rhinofe rhino bear with the small balla sketch of a rhinos face hanging upside downa rhino in the tree sketch stock photo, royalty vector and, example of aa bat bat hanging from a tree branchdrawing of a nose rhinosin fish in pen, head left sidea fish fish with eyes looking in a fish holea bat - hanging a leaf hangs down in spacea bull is looking down from the sidethe hanging upside down with one apple on the hooka sketch of a rhinobod lying on its backa very strange looking koala hangs from a tree brancha drawing of a koala bat lying on a branch with branch branchesblack and white of a fruit bat upside downa drawing of a fish is hanging on a tweee brancha black and white photo of a bat hanging upside downa drawing of a rhino skull hanging from the tree treea drawing of this animal's head hangs from a ropea drawing of a cow hanging from a hooka picture of a rhinothos hanging in an animala baby hanging from a tree brancha bat hanging upside down on its backa little hanging upside down in the hanging upside down in my drawinga hanging bat drawinga cartoon hogunt creature is hanging from a brancha fish is floating on a stringa drawing of an animal hanging on a branch
+Question:is a koala hanging upside down on a tree branch?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between robin, tiger_shark, ostrich, goldfish
+Answer: a robin
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:two birds eating seeds of a flower branchbirds sitting and two cute birds in the flowertwo small birds perched next to each othera small bird is in the photo with two birds sitting on the branchesa pair of birds perch on a branchtwo birds that are standing on a branch of a treetwo little birds sit on the bouquet of rosea couple of birds sitting on a branch of a tree near some leavesa pair of birds is sitting on a branchtwo birds perched on a branch in a flowera couple of birds sitting next to each other on a brancha couple of birds sitting on top of a branchtwo birds and flowers and white drawingtwo birds sit in a tree with each othertwo bird sitting on some flowers with another bird sitting on onetwo birds on a branch of a treea pair of two birds sitting on a twig of flowerstwo birds sitting on top of a tree branch with flowerstwo swallowirts perched on a branch on a white backgroundtwo birds sitting on two branch branches with flowers in the background of the birdtwo birds perched on a branch with flowerstwo cute birds sitting on a branch of treea bird sits on a branch of flowersthere are two birds sitting on a branchtwo birds and one bird sitting on onetwo birds on a limb among flowersbird and two birds on floral branch with flowerstwo love birds on branch with flowers in backgroundtwo birds on a branch with flowers on it
+Question:are there two birds sitting on a branch?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between goldfinch, goldfish, tiger_shark, indigo_bunting
+Answer: goldfinch
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a black and white bird singing on a brancha bird that is black and white sitting on a tree branchsonging bird drawing bird coloring for bird drawinga small bird with its mouth opena simple bird bird image bird drawing song birda songing bird shouting by a songing hand drawing bird singinga bird on a tree branch singing with its beak opena drawing of an image of a small birdthe bird is on a twiga bird is perched on top of a twiga bird is sitting on branch in a black and white illustrationa bird singing and singing for its beaka drawing of a sparrowfeet on a white back groundthe bird singing, a hand drawn illustrationa bird sitting on top of a branch of a treea black bird sits on a branch with its beak opena small bird singinga bird singing on top of a branchhand - drawing of a bird perched on a blackboarda bird singing up inside it's moutha bird with a beak open and a beak in its mouthhand drawing of bird sitting on a branchblack and white bird drawing bird imagea bird in black ink on papera sparrow sitting on a wood and bare arma bird on a branch in a pen drawingbird singing bird songed singing song image gallerythis is a drawing of a bird by itselfa bird with its mouth open sitting on a perchbird sitting on branch of a tree coloring page
+Question:is a bird sitting on a branch in black and white?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between brambling, bulbul, goldfinch, indigo_bunting
+Answer: a black and white bird sitting on a branch
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:sketch of manta fish - ray and bug grilla manta ray ray with an animal maska manta ray is floating in the water, drawinga ray ray rays in the watera young skatefish manta ray under a fish ray underwater wildlife photographa manta ray, a manta ray, and other wildlifea manta ray underwater in charcoal ink drawinga fish with a long ray rayoa drawing of a manta ray animal, with goggles on ita mantazu is swimming in the oceana sting fish with a stripe of eyelashes and a fan in its eyesa man ray on a white papera very long tails with a man raya sting ray ray and its big long blades heada picture of a white and brown manta manta raya picture of some kind of fancy animalthe a manta ray is shown in black and whitea mantas fish mask is drawn in pencila manta bay ray in pencil drawn on white papera close up of a fish with an oceanic animal in ita mantas ray ray ray ray swimming on the tropical seasting ray ray ray in pencil on paperblack ray glidetoe in the foreground and a black and white backgrounda drawing of a manta ray with goggles sunglassesa mantas ray ray fish with goggles sits on the grounda manta rayfish swimming with sunglasses and gogglesa drawing of a batfish with sunglasses on his eyean old photograph of a manta ray with gogglesa manta ray in the middle of the imagea manta ray is pictured with its tail sticking out
+Question:is a manta ray a fish?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between electric_ray, tiger_shark, ostrich, great_white_shark
+Answer: electric ray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird with the wordhuse written on ita bird sitting on a tree branch in monochrome on a white colored carda bird perched on a tree branch in front of someonea black and white image of a small birda bird sitting in a tree with the words's good written in the backgrounda white bird on a paper with a words on ita bird with inspirational wordslittle black bird bird has black and white eyelinesdrawings of birds by hand drawn artist hulm hut hut hut hastuiseperson with a inspirational quote perched a birda drawing by a young woman of birds on branchesa bird perched on a branch saying'his song is onea drawing of a bird with words about birdsa bird that has a message for hulmmus hummusa small bird drawn by a bird pencil artista bird with a line drawing inscription on the side of ita bird with an image of a text that saysa bird is drawn with the words,'not bad 'a black and white bird sits on a tree brancha small bird with his feathers spread out, sketched in black and whitea birds drawn by hiszbie was istea bird sits on a branch with a hand drawn quote insidea ink drawing of a bird sits on a brancha bird is sitting on a tree branchthe bird is perched on a branch of a treea bird sitting on a tree branch says'musk muss 'a black and white drawing of a birda black and white bird on a tree brancha bird with a humish nose sits on a brancha bird, with hiisism is sitting upon its perch
+Question:is a bird sitting on a tree branch in black and white?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between electric_ray, indigo_bunting, brambling, goldfish
+Answer: electric_ray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:an ink drawing of a bird hanging on a wirean ink drawing of a bird sitting on the groundwild bird bird black and white coloring page little bird picturesa sketch of a bird hanging upside down and a toothbrush in its mouththe upside down bird next to the branch of it's treea small bird has spikes long its head in grassa small bird with a bird on its backa bird that is laying on the grounda bird on its back is resting on the grounda drawing of a hawk perched on a tree branchesa bird that is on a wire linean ink pen and digital drawing of a bird hanging from a brancha bird with a small bird on it's feathersblack and white picture of a bird that is sleepinga bird with some arrows attached to the back of its winga drawing of a bird with head and antlersa very cute bird hanging upside downa black and white bird sketched near a bird's taila drawing of an eastern brown headed nuthat hanging from a brancha small bird hanging with a banner hanging on a chaina small bird hanging off the side of a branchthe bird is sitting upside down in the process of hanginga drawn bird sitting on top of a tree branch brancha bird that is sitting on a brancha bird hanging from a tree - brancha bird suspended from the wires of a branchblack and white drawing of a birda bird hanging from the branch of some branchesa bird is hanging on a signa bird sits underneath the water below it
+Question:is it possible to hang a bird upside down?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between robin, brambling, hammerhead, ostrich
+Answer: a robin
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a blurry image of a bird flying close to wateran orange is on a plate in the watera blurry photo of an orange on a surfacea blurred picture of a flower that is yellowa blurry facing outside a window looking thrusliced lemon with the top of it on a paddle boata colorful photo of a picture of a bird on orangea close up of a fruit slice on displayblurry photo of a banana with a lit bulb hanging from ita picture of an orange that has some light inside of ita yellow bird with the sun setting on the horizona yellow firework over a window and some lightsa picture of a flying insect in the center of a large decorative designan orange in motion blurred while you drivea bird flying on a flight by the sunlightthe image shows a citrus fruit made into a flowera bright orange mushroom like object sitting atop a light polea view of a bright fruit with a yellow ring around the centera picture of a bright, blurry and light showa lemon is sitting on the water with it's spiky insidesthe bird is flying around the sun on the windowa banana is sitting on a table by some bananasan orange with a light on it in a squarean orange is being photographed in a blurry photoa sunbeam, with yellow light shining in the darkbluring photograph of an abstract image of a yellow object on a white appa motion blurry motion is seen with red lightcircular photo with light in blurrybby mode of photographya painting in motion, with a blurry effect of a clock facethe light has just thrown off and the light is out through the lens
+Question:can you see the inside of an orange in a blurry photo?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between hammerhead, electric_ray, stingray, tiger_shark
+Answer: a hammerhead shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a group of men wearing flags on different colors flying in the skylots of black flying animals around on the skylots of birds flying in the air with blurry yellow lightsa blurry photo of many colorful objects flying in the airbirds fly above a purple sky with cloudsthe blurry photograph has many clocks flying aroundblurry photograph of black, and gold flags in flightthese are many birds in a blur of browna blurry picture of a sky filled with flying blackbirdsan image of a blurry picture of a small birda bunch of different colored birds flying in the airthere is this is an image of a birds flyinga photo overlaid shows a very blurry picturea flock of flying birds in the skya group of birds flying through the aira group of flags fly over ground while trees loomlots of paper flags on a stringa picture of many black birds in flight and flags flying across the skya blurry scene of some black birds flyinga small flock of birds flying through the skya picture of several birds flying above a lightan elegant photo of a crowd of birds flying in the airthere are many flock of birds flying in the airmany birds flying in the sky in the skya photo looking to up towards the treetopsa view of the sky with a blurry effect of birds flyinga flock of flags over a skyan open photograph with a background of blurry and golden birds flying in the skybird - like birds are flying high up in the lila skya blurry photo of graduation caps flying
+Question:are there many birds flying in the sky?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between bulbul, brambling, electric_ray, great_white_shark
+Answer: a picture of a flock of birds flying in the sky
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:three different birds on different posesset of four birds, the hand drawnsix different images of birds on the branches of the treea variety of six small drawings of ducks, birds, and birdfour birds on a branchthe different kinds of birds in black and whitea black and white set of three birds perched on a branchvarious birds perched on treea group of birds and two sparrow birdsa group of bird photos with many different images in itbird in different poses with budsbirds, flowers and leavesblack and white illustration of five birds against a white backgrounda series of photos a bird with five birdsbirds set in the photos isolateda set of bird sketchesa set of four different birds, three small, three small and three large birdsfour small birds in various posesfour black and white birds on tree branchestwo birds and a bird sitting on a tree with leavessketches of two birds, a small bird and two small birdsa black and white drawing illustration of birdsbird, pigeonfishbird, killkinder and small birda set of birds on a white backgroundfour birds birds and leaves in a collectionthree birds and vinesdifferent birds and leavesfive different birds in different poses on whitebirds sitting on branches with leaves and foliagefour bird sketches and the two have a beak open
+Question:is there a difference between a small bird and a large bird?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between brambling, indigo_bunting, goldfish, stingray
+Answer: a photo of a small bird with a beak open
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird sits on a branch of a tree tree with flowers along its trunka bird sitting on branch, the drawing was being done in charcoal on papera drawing of a bird perching on white flowersthere bird on white background on a white backgrounda bird sitting on a branch with pink flowersa small bird is sitting on a branch near flowersa bird on a branch with a bird sketch in ita sketch of a bird with flowers in the backbird perched bird drawing in pencil on white papera bird with a flower on its winga small colored bird perched on a branch with fisha bird sitting on top of a white surfacea drawing of a bird sitting with flowers in frontbird sitting on a branch with the white and black backgroundthe beautiful bird is perched on a flower branch, ink drawinga drawing of a bird on a white papera small gray bird sitting on a brancha bird is standing next to a flowera bird sits facing towards the right of the picture and is percheda drawing of a bird is in a black and white photographa bird perched on an apple tree while i draw ita black and white black and white bird perched on a brancha black and white bird is perched on a branchthis drawing of a bird sits on a branch with white doguninal flowersa bird is sitting on a branch with flowersa black and white photo of a birda little bird is perched on a branch with flowersa bird perched on a branch with the petals of the treea bird is sitting in the middle of a branch with flowersa bird ink painting of a bird by a fish
+Question:is a bird sitting on a branch of a tree?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between electric_ray, indigo_bunting, goldfinch, stingray
+Answer: electric_ray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird with abstract leaves on it art illustrationa black and white drawing of a small birda drawing of a small birdblue bird on branch with autumn leaves in backgroundthe bird is long long and tail of feathers and sitting on brancha black and white picture of a bird on a treeblack bird on hand drawn papera bird of paradise is a drawing of leaves on a black and white landscapeto bird of the wood birds, bird of the bird - a flockbirdan ink sketch of a peacock birda bird on a white backgroundblack and white pen drawing of a birdpencil pen drawing of a birda bird with long wings and a tail with a thick billa bird sitting on a branch on a white papera bird perched on a branch with leavesa bird bird peacock bird feathers sit ona black bird and leaves are on the grounda drawing of a green quel bird sitting on a brancha black and white bird sitting on a tree brancha bird sitting on top of a tree brancha bird sitting on a tree branch - photoa bird and leaves on a table on a white paperpicture of a black and white bird and the bird is sitting on a brancha bird resting on a brancha drawing of a grey bird sitting on a branchthis bird has a patterns on the perched black bird on a brancha bird sitting on top of a branchan image of a bird on a tree branchbird on branch tattoo example
+Question:is a bird sitting on a tree branch a black and white drawing?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between ostrich, bulbul, indigo_bunting, stingray
+Answer: a bird sitting on a branch
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird singing with its beak opena little bird perched on top of a tree brancha bird is looking to be a very serious birda bird sitting on a branch staring aheada pretty bird sitting on a rock, a hand drawn black and white illustrationa bird is standing on a board by itselfa black and white bird with a beak open perched on a branchpicture of bird singing and singing its headbird singing while singing to a songa drawing of a black and white bird perched on a percha drawing of a bird on a white backgroundline drawing of birda small bird sitting on a branch on a white backgroundan illustrated bird sitting on a perch, with a white backgrounda bird sitting and drawing a line drawing of a birds drawing to draw a birdsketching bird perched on a branch of treea bird singing and singinga bird sitting and singing with a beak outstretcheda black and white drawing of a small bird on a tree brancha small bird is sitting on a rock drawinga bird is singing on top of a brancha small bird singing on its bodya black and white photograph of a bird singinga bird sitting on a branch and singingthe bird in the drawing pen on white papera black and white bird standing on the edgea bird stands on a thin brancha bird is sitting on a polea bird and bird song a jaybird to singa drawing of a gray rumsink male singing
+Question:can you draw a bird sitting on a branch?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between indigo_bunting, ostrich, goldfish, robin
+Answer: a robin
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:some drawing of a bead is attached to a doga cat that is next to a cat on a stringa doughnut with sprinkles falling from ita doughnut drawing of a person and a doga cat with a big necklace is dog with a dollar signtwo dogs eating food that's flying through the skya dog flying from a rocket up the sky with a kite above ita sign that is dangling from a fishing hooka drawing of two drawings of a rhino and a rhinoa black and white sketch of a kite string and be by friendtwo black and white drawings of small horses, with stars above one earthree illustrations with text and hand designs of a rhino and a dog holding beadstwo illustration that show two dead animals facing off each othertwo handmade items with food attached to themdogs that are facing each other over a no nu nu - n - lhand - drawn drawing of rhino and rhinoo on one leg and a quote thata cat on a kite flying over another cattwo drawings of a black and white bulldog vs a dogthree types of dog faces with different types of heada rhino and an elephant fly a parachutetwo pictures, one of the pig and one of a dollar flying across the skya picture of a dog that has its head inside a beadtwo drawings of a cat and dog hanging from a ropea cat is laying down on the cat sleep, drawing by mea drawing in black ink of a rhino animalsome illustrated drawings of dog dog meat before being eatena drawing of two rhinos and a giraffe with a crown above thea drawing of a bulldog and rhino in the drawinga drawing of a dog, and the words fund are in handwritinga dog and a pig are under the word b funds
+Question:is there a dog on a kite?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between goldfinch, ostrich, stingray, indigo_bunting
+Answer: a picture of a dog and a pig
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:bird illustration drawing bird simple drawing for begina bird drawn with a pen on a piece of paperan ink drawing drawing of a small birdsketches of a bird that appears to be a birda bird sits on top of a tree branch sketcha bird is standing next to a tree brancha bird sits on a branch drawn by a penthe bird is drawn in a simple waya bird drawing this is not the drawing i dida drawing of a bird on a twig on whitea pencil drawing of a birda bird perched on a perch on a white backgrounda bird on a white background with a bird in the middlea small flying bird, on a white surfacea small bird standing in profile on a white surfacea grey bird with some black feathers, perched atop a sticka picture of a bird that was drawn for mea small gray bird that is standing on its sidesa bird sitting on a branch, in the process of drawinga bird that is sitting in the close upa small bird perched on this branchsmall bird in black and white with text overlaya bird sitting alone on a small branchthe drawing of a small bird on the groundbird perches on a branch bird drawinga drawing of a bird with a white backgroundthis drawing of a bird is not easy to doan illustrated image of a bird with a beak
+Question:is it possible to draw a bird with no wings?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between electric_ray, goldfish, indigo_bunting, bulbul
+Answer: a picture of a bird with a beak
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a watercolor watercolor painting and a black hat sitting on top of the watera picture of watercolor illustration black and yellow cat on streeta watercolor and ink drawing of a motorcycle parkeda close up of a painting on a table with a bowla drawing on paper with a cat laying out on its side on a tablea watercolor shows a black cat and a fishblack object, one oval black dog is displayeda black guitar instrument and a cat resting under a black hata black and black water - color ink drawn of an elephant facea black apple on a blue floor next to an applea cat is looking down at a cat who is looking for hima painting with black spong and a papera painting that is in some kind of placea cat laying on the ground next to a hata drawing painting with black and a face that is blackan image of a black and yellow drawing in a messy, graffitied backgroundan art painting of an animal in a roomthe black cat is walking away from the black cat laying downa black animal and a cat sitting in front of a pillowa photo of a black cat sleeping on the grounda black cat is laying on the ground next to a black objecttwo black cups black cats and black doga watercolor painting with a black objecta watercolor painting of an object and a cat on a blue backgrounda painting with a small eye covered by some black oila black dog and a cat are all looking at the same waya black dog on the ground has a black cat under ita little black cat and apple from an abstract watercolorcolorful painting of a black dog on a light dayblack cat with black head looking up
+Question:is there a black cat on a table?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between tiger_shark, indigo_bunting, stingray, bulbul
+Answer: tiger_shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird on the wire stands on a wirea picture of a bird with a very small facea small bird sitting in a branch, in profilea very cute bird standing on the brancha picture of a bird that looks to be sketchinga parrot with a beautiful crest is on a tree brancha drawing of a bird on a wirea parrot drawn in pen by a birda sketch of a bird that is standing on the grounda pencil draw drawing of a bird sitting on the grounda drawing of a parrot sits on a tableblack and white drawing of a cardinal on a tree branchbird, drawn in pen, sitting on a branch, perchinga bird is standing on a perch perch and looking arounda sketch of a parrot on a white backgrounda bird perched on a stick with a long string in it's beaka black bird is sitting on a perch with a wiresdrawing of a bird perched on a branch with treesa white bird that is sitting on a yellow beaka parrot perched on a brancha bird is shown in white, and blacka drawing of a bird with a huge beakoutline of a parrot bird on a brancha black and white photo of a bird in flighta drawing of a bird sitting on a branchthe bird is sitting still and staring intently at the cameraa drawing of a parrot on a brancha bird on a drawing papera bird sitting down, waiting for something to happen
+Question:is a bird on the wire a drawing?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between indigo_bunting, goldfinch, great_white_shark, bulbul
+Answer: a bulbul
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird with a beak sits on a tree branchthis drawing of a bird on white paper shows a birda bird sitting on a branch, on a white paperblack and white image of a bird on a branchthe bird is sitting on the branch on the treea gray bird with two white spots on it's back and tailbird sitting on the branch in a pencil drawn, white carda gray bird perched it's perch on a brancha coloring of a bird that is standing on a brancha beautiful bird with long gray and gray tail standing on a sticka sketch of a gray bird on a tree branchbird sitting on perch line drawing by a black and white photoa small bird perched on the brancha small bird is perched on a tree brancha drawing of a bird sits on a tree brancha small bird perched on top of a brancha bird that is standing by itselfa gray, white, and black bird on a small brancha bird sitting on top of a small tree brancha drawing of a bird, sitting on a wirea pencil drawing of a bird perched on a brancha bird on a branch with a white and gray backa bird sitting on top of a tree limba bird sitting on top of a brancha bird is drawing a bird with a bird winga drawing of a white bird sitting on a branchan image of a bird sitting on a white white sheeta black and white bird perched on a brancha bird is sitting on the branch and percheda small bird sitting on a barren branch
+Question:is a bird sitting on a tree branch?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, great_white_shark, brambling, indigo_bunting
+Answer: a stingray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a sticker on the back of a shark stickera large black bird is seen on the back of a parked cara sealeater world in antab, qantaab, a bear ona black backeded, red white and yellow postera sign with a dog on it on the side of a beacha black seal whale, in the water, with the extreme line world, qa car with a bat emblem is parked on a parking metera dolphin is in the air on a wide wide landword world world world wide wipe with giant q mouse world wide, q q anta silver car with a large shark on the bumpera poster of a kangaroo in exotic sea sandthe santatta wind logo and an image of airplane flying through a cloudy skythere is an orca in the shadow of a animala dolphinfish flys through the sky to get on boarda large bird flying around on a small black bird stickera shark logo on top of a sticker on a side of the roada silver car with a eagle on the back enda doberman dog related as a goat on a circular stickera very large flying animal next to a body of wateran aircraft with flying bird is featured in this advertisementa giant and massive black bear on a car stickeran extraordinary animal extra extreme extreme extremea picture of a giant object with a orc shark animala round white and round sticker with a bird kite overa picture of world wide qjahab, q tabar in a new qthe extreme extreme extreme world tour flying airplanea blue car with a dog in the frontairplane flies live live line logoa planefinzers world wide wide wide wide logo
+Question:is there a shark on the back of a car?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between robin, bulbul, electric_ray, stingray
+Answer: a picture of a shark on the back of a car
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a little purple mermaid character with a bird in the skyan alphabet with a picture of a lion, cat, and lettersa black and white drawing with a cat and kittenmy purple book's and two cat and butterflycoloring for children with the color in coloring by numbersone piece of art is a woman and catsa purple drawing with a girl with an animal on ita drawing that has a girl walking down a streeta lion and a cat walking a dog next to the worda cartoon, a cat is walking with a princess and a cat by itselfa drawing of a cat sitting next to a girl's facecats and animals coloring for beginers on easter easter and eastera woman by pink neon light on white papera mermaid in a blue and purple drawing with birdsthis is an image of a drawing of an animala drawing with a lion and a bird next to ita drawing shows a lion and a cata drawing of a cat sitting in the cornera drawing of kids and butterflies flying around the butterflyand coloring coloring coloring - a kitten drawing cat girls coloring free coloring color - aa cat cat has pictures on it and writing and lettersa woman is drawing with a marker, an umbrella and butterflies in the aira cartoon of a child under leavescoloring in letters with pink marker in purple inka dooshe sketch of i have been drawn as a girlpurple coloring free and color - by - p's to printa drawing of a female pet with the head of a cat and butterflies behind herpurple and white line drawing of a cat and catthe sun is shining and a cat is playing with scissorsa black line drawing of a cat and kitten
+Question:is there a cat in a purple mermaid?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, goldfish, ostrich, great_white_shark
+Answer: a picture of a cat and a fish
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a hammer - teeth drawing on a white backgroundshark shark coloring pages shark coloring pages coloringa shark shark coloring pagea shark is black and white to the sidea great sharp shark tattoo for a mana sea shark that is outlined and has a long billa hammer fish that has a very sharp face and long teetha shark face that is drawn with a line on a white backgrounda black and white outline drawing of a sharka white shark on a black and white backgrounda great hammerfish shark drawing of coloring pagesgreat shark drawing at getdrak coma shark drawn in black on a white backgroundshark shark drawing with white backgrounda hammer shark, the largest fish with large teetha white shark is swimming to a righta fish, drawn in ink stylea very large shark that is not really close to the grounda black and white sharks drawing and illustrationa black and white picture of a sharks facea drawing of a shark on a white backgroundhammer shark drawinglarge shark sitting uprighta shark is close to the camera with a black and white backgrounda black and white image of a sharkan shark shark coloring pagesblack and white drawing of a shark coloring pagesa large black and white drawing of a sharka black and white shark shark drawing on a whitea large shark with a white body and a black shark under collar
+Question:is a hammer shark the largest shark in the world?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between tiger_shark, bulbul, great_white_shark, electric_ray
+Answer: a tiger shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a hair dryer sitting on top of a hair brushthe clock is on a white surface that has wires all arounda sink in a tiled bathroom with a black shower fana water spout from a head spraying watera photo of a hair dryer blow dryer used to blow productssome black and yellow wires around a draina close up of a small brushes brush with some spraya black hair brush and a brush being held in someonethis is a picture of a close up of haira hair brush that is inside a bathroom sinka close shot of a sprinkle is spraying showera clock on a counter with hair, the sign above ita hair brush is used to comb hair with a comba black brush with long hair sitting insidethe hair is black on an object and has very tiny hairhairbrush and hairbrush in a bathrooma comb brushing its hair in a bathroom sinkan overhead view of a shower tub that has water and steama clock on a black wall with black spikes and a sprinklea large black clock sitting inside an open tuba messy comb sits in the sink of an old fashioned laundrya sink with the faucet of a hair brusha hair dryer that is next to some hairan image of a hair dryer with dry hairtub a shower and a bath tub full of watera black circular clock that has several seconds timer on itan abstract photograph of a clock in motionblurry, circular photo of a black hair dryera brush and brush with hair brush
+Question:is there a hair dryer in a bathroom?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between electric_ray, great_white_shark, hammerhead, tiger_shark
+Answer: a hair dryer
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a baby stingfish swimming between sandy watersa very cute big fish that is close to the oceana fish is slowly moving through the grounda fish laying on the ground near watera sting stingfish swimming in the ocean watersa sting ray is swimming through the oceana sting fish swims on the icea small stingfish moving in the sanda small spotted skatefish on the ocean floora ray moving along the coral reefs oceana fish swimming with a large blue raya ray swimming through white water near a coral edgea small sting sting is moving through a sandy areathis is a large fish with fish nearbya ray ray fish is lying on the ocean floora rayfish swims near a wreck under the ocean floora fish floats underwater near to some fish layinga small stingfish swimming on a sandy surfacea stingper in the bottom of the water looking for foodthe sting fish that was swimming in the oceana fish and small fish under it on the blue watera stinghyke laying against a white backgrounda shell with large stingfish in shallow red watera bluefish that is under water on some rocksa very cute small spotted sting shark in the oceana sting ray at the north end of the oceana stingk underwater is swimming in a sandy areaa young ray being under watera yellow sting fish in clear water under watera small fish, swims across the ocean's bottom under water
+Question:is a stingray and a ray the same thing?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between tiger_shark, stingray, goldfinch, robin
+Answer: a stingray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a small black and white bird standing on a white grounda bird with a black body and white and black headwhite black and black bird with a black bodya bird that is standing in front of a white backgrounda black capped wagtail sitting and looking arounda bird standing with long beak and headmagard bird black and white and white on white color backgroundpainted illustration of a blue bellied bird standing against a white backgroundan illustration of a bird with white backgrounda bird is painted in a black and white picturea little bird standing on top of a white grounda bird that has white and black on ita bird perched on top of a white surfacea white wabler stands still alone with its long beakthe black and white magnife is standing alonea black and white bird standing on a white sandy surfacea gray waat on the ground with a white backgrounda bird drawing a picture of a bird bird drawing 9a small bird is on a black and white grounda bird perched on the ground with a black heada black and white bird sitting on the grounda drawing of a bird with a black head and white chestbird white - throated scrub wabler on white backgrounda drawing of a bird on a white backgrounda bird stands alone on the grounda white and black bird standing on top of a stonea bird with black and white feathers is shown in this imagea black and white bird is standing on a ledgeis this a birds black and white bird in a fieldbird with black neck and white face and white bill
+Question:is a black and white bird standing on a white ground?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between indigo_bunting, stingray, electric_ray, ostrich
+Answer: a bird with a black and white head
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:fish goldfish royalty image image ofa spotted fish hand drawn illustration for coloring booka fish in polka dot print design coloring on white backgroundfish with fish design stock photo image of goldfishhand drawing fish ornamental dot fish stock vectora black spotted fish, also a small fishblack goldfish with abstract dots in it stocka fish with dots and spots is drawnfish with polka dot dot spots in the style of polka dot dotted fish on afish in a doodled stylefish aquarium stock fish goldfish stocka fish with a black and white patternfish drawn on a white background stockshortfin fishes fish fish royalty stock photofish drawing white paper on the white background stockfish stock image of white black spotted fish with spotted lineswimming fish for goldfish stock illustrationa fishfish is shown with dots on itgold fish royalty illustration illustration black and white editoriala dot fish royalty vectors royalty imagegoldfish in a fish stock illustrationsa fish on a white background royalty illustrationa fish hand drawing black and white royaltylarge groupler fish hand royalty illustrationdecorative fish royalty illustrationa black and white fish stock fish on an isolated royaltygold fish on white background wallpaper and other animals ina goldfish stock image of a image fisha flying fish image royalty imageimage of an sea fish stock
+Question:is there a difference between a goldfish and a spotted fish?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between goldfish, great_white_shark, bulbul, brambling
+Answer: a goldfish
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird is sitting on top of a seal on the beacha dog of seals sitting laying on the beacha bird walking out of the water while a bird lays on itthere is a dog chasing a seagull on the beacha dead seal lying on the beach alone near the oceana bird standing on a rock by the watera grey seagull in front of waves with a stick out to drya dead duck laying on the side of the watera bird chasing a bird next to a bird running through the sanda bird on the sand walking by the watera sea lion laying in the sand by the watera small seal duck drinking water in the oceana dog walking on a rock with a dead seal in the distancea dog on the beach playing in the waves and watera bird wading along the shore of a beacha bird that is walking by alone on a beacha bird is walking on a duck at the beacha bird and a seal swimming in the oceana bird laying on the beach next to the oceana bird that is laying along side of watera seal in water on a beach near the oceana dog is standing next to the oceana dog lies on the beach by the watera bird on the beach next to the watera dog on the water along this beach sidea bird on the edge of the dock at the beacha bird on the beach at some small beachbird that is standing in the water by the beacha boatdog on the beach looking for food
+Question:is there a dog on the beach?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, robin, brambling, indigo_bunting
+Answer: a bird
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird sitting on a branch pencil drawinga close up of a bird on a white backgrounda bird on a branch with a nest on each winga bird with a chick in its nest on a brancha bird sitting on the branches with his head pointeda bird sitting on top of a piece of papera bird sits on a piece of paper in the studioa bird sitting on the edge of a white backgrounda pencil drawing of a bird sitting on a treebird drawing of a bird in a tree by sketch artist pen and inka small bird sitting on a white table while a small sketch is being drawna drawing of a bird sitting on a tree brancha small bird perched on tree branch in daylighta little bird sitting on a trunk by the barkdrawing a bird a little bird,a bird is sitting on a white papera small bird with short feathers sitting on a brancha bird is perched on a branch next to a treea drawing of a bird sits on a brancha black and white bird sitting on top of a branchpencil drawing of a drawing of a bird in spring by persona bird sitting on the tree branch with one wing rolled downa black and white drawing of a birda brown and white bird sitting on a brancha drawing of a chick sitting on a branchpencil drawing of a little bird perched on a branchsome kind of bird sitting on top of a brancha close up of a bird sitting on a brancha bird perches on a branch outside
+Question:is a bird sitting on a branch a pencil drawing?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between indigo_bunting, great_white_shark, stingray, brambling
+Answer: a bird sitting on a branch
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a large fish swimming behind an orange bird in the watera blurred look at some kind of fruit that can be found on land outsideone feather flies towards one other, on a blurred blurry backgrounda feather flies above the water with a small feathertwo fish swimming in the ocean and one animal divinga dandelion on a table, in motiona blurry photo of a bird on the beacha fish in water that is blurrya fish underwater in sea with it's front end submergeda flower that is blowing in the watera dandel flower with large long, pointed antennaea dandelnut with seeds that is close to grounda close up of a plant with a blue backgrounda small fish in a body of water with sea life and other creaturesa fish swimming in water with the end underwatera photo of a seed head with a black backgrounda white dangle seed growing above blue watera person with a red fish in the oceana bird is flying above the oceana small object of some type is a leafa picture of a fish flying in the aira fish and a small bird swimming and eatinga very close up of a seed of grassa fish that is standing in the watera fish swimming on the water with water behind ita fuzzy flower that is out on the dirt fielda fish that looks like a seed floating in shallow watersa fish is shown in a motion blura seed plant in a pond with a leaf on ita yellow fish has an orange fin attached
+Question:can you see a fish swimming in the ocean?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, electric_ray, great_white_shark, bulbul
+Answer: a picture of a fish swimming in the ocean
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a small bird sitting on an old photoa bird perched a white wall with a beaka bird sitting on a bare tree branchsmall bird perched on bare branch looking at the tree photothis is a bird perches on a barbed wiresmall bird on a tree corda bird sitting on a chain with its beak openthis bird is sitting alone on a twiga little bird perched on a wire against a white skya small bird sitting on a white backgrounda little bird perched perched perched on a brancha little bird perched on a branchwater bird a sitting on a twig brancha small bird on a white background birds of preybird and chaina bird perched on a wire with a white backgrounda bird sitting on a tree branch on a white backgrounda black and white drawing of bird perched on a tree brancha bird that is perched on a brancha small drawing of a bird on a tree brancha bird sitting on top of a tree branchbird on white background with no birds and the texta small bird that is perched on a brancha bird is sitting on a brancha bird sitting on a tree tree brancha bird perched on the end of a small brancha bird is sitting while the bird is perched percheda bird with beaks is sitting on a percha bird perched on long thin branch with twigssparrow perched on a tree branch waiting for food
+Question:is a bird sitting on a wire?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between indigo_bunting, stingray, brambling, electric_ray
+Answer: a bird sitting on a wire
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a person with tattoos tattoo on their ankletattoos in the left side of a picture is a small cata person has a bird and roses tattoo on their armthe horse is closeup of the head of a horsea couple of black arrows on the thigha black line drawing of a lizard with a rose in the side of the tattooa drawing of some arrow and some flowers on the side of a walla sketch of a drawing of a dog on someones backa person has a cupid on a motorcyclea black ink arrow and bird tattoo on the right thigha leg with someone's cat tattoo is tattooed on a mana person's leg showing tattoo with a floweran horse with a rose on its facea tattoo on the side of a black horsea black tattoo with a bird and roses on itblack bird, and horse black sketches drawn inka horse tattoo has a rose flowers on ita horse with arrows and arrows in its rear designa tattoo on a person's lower arm lowera tattoo that is on the legs of a mana on a a a tattoos tattoo and an a a some tattoos rose tattoo tattooa tattoo of a dragon holding a flower in ita black ink tattoos ink black a rose tattoo horse tattoo black horse skull horse rosea tattoo of a horse, and roses, not a birda man's tattoo of horses has a geometric lookthere is a horse tattoo on the tattoosomeone has a rose tattoo with a native americanthe dog is wearing a tattoo with roses on itsomeone is displaying a tattoo of a horsethis horse's head has pink flowers on it
+Question:can you get a horse tattoo on your thigh?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between robin, electric_ray, brambling, hammerhead
+Answer: a horse
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a little fish fish under a white fish that is eating some white materiala bright white sting crab swimming near a small fisha starfish or a sea anemont among fisha very big white animal laying in the sandtwo gold pendants on a white background with a fish and another sea animalthe black and blue fish is under some vegetation looking at hima stingfish on a rock covered with algaea stingper fish is hiding in the algaea green and white fish next to some little rocksa sting ray swimming next to it's fish on the watera white fish on a white surface with sea weeda stingfish lying next to some little sea anemonesa large stingfish on a tropical coral reefa fish or animal has white and white feathers and two fishwhite fish and some white rocks on the watera stingfish with a baby fish in the pouchsea life that is standing on concrete looking like a rocka manta ray with fish around it on the grassa stingperfish swimming through an ocean floorfish and sea life that is all arounda small fish is underwater with small sea creaturesan sting stingfish on a coral reef in a clear watera group of clown fish and a white stingfish on a reefa stingfish is swimming on an overcast oceansome fish swimming around an ocean floora stingper fish on a coral in an aquariuma white sea fish lying on a coral corala sting fish on sandy ocean water with colorful seaweedthis picture shows the underside of a white object
+Question:is a sting ray and a sting fish the same thing?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between brambling, goldfinch, bulbul, electric_ray
+Answer: a goldfinch
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:an elephant and a man are together outsidea horse taking the hand of a man in black shirta pair of hands touching a railing with a blurry backgrounda mans arm extending to the camera as he rides a surfboardmonkey playing in water with its human handsa person riding a skateboard on a surface of waterblurred photograph of a man hand and a black ducka blurry photo of a dog walking by watera fish aquarium with small water poola hand is holding an elephant in its environmenta bear standing in the water with sand on it's feeta man in a black shirt is in the watera blurry picture of a blurry photo with green green and whitea photo taken of a hand while the fish is inside watera person surfing on some water next to a surf boarda person on a boat with a bear next to a man in the waterthe man is holding the board by a handa half shot of a person riding while a bear follows the photographerthe elephant standing in the water walking along his feeta man holding his hands out next to the watera person in a wooden enclosure near a bear touching the watertwo hands floating in a channel of waterthere is a polar bear standing in watera surfer looking down at the water from a ledgeclose up of polar bear's paw being shaking with anothera man is washing something with his handa person wristing down a small bird in a bird cagea person and some water animals and water and a handa man riding a horse on a lakethe man is riding his surfboard up water
+Question:is there a man in a boat with a bear in the water?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between hammerhead, goldfinch, tiger_shark, stingray
+Answer: a hammerhead shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a close up photo of a drawing of birdsfour small birds are sitting in tree birdsa pencil drawing of two birds sitting next to each othera group of birds that are perched next to each otherbirds looking from side profile of an antique style photodrawings with an image of birdsfour birds are sitting on a tree branch with two one is yellowfour different birds standing on a branch side by sidefour birds are sitting on a tree brancha bunch of black and white images of small birdsthree birds are sitting between two othersa pencil sketch of three birds by artist - in - residencebirds, black and white image, three birds, birda group of birds are sitting together in a drawinga group of birds sitting on top of a drawinga group of birds sitting on top of a groundfour birds sitting on a branch with a white framethree birds are perched in a linefour birds sitting on a branch in three stepsfour birds sitting on top of a tree branchfour different types of birds on a branchfive realistic bird sketching drawing styles3 different birds are sitting on a branchthree drawings of different birds on top of one anotherbird series of three birds in black and white and by mebirds pencil drawingbirds perched on a branchfour species of small birds on a gray backgroundthree birds sitting on a branch togetherthree illustrations representing various bird in shades
+Question:is it possible to draw three birds on a branch?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, great_white_shark, tiger_shark, brambling
+Answer: stingray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:painting of body art on a kitchen walla cat and a cat standing in a kitchena painting of a severed body, meat, and a birda still life of fish and a table of foodan image of a cat and a kitten with meat and fisha painting of a very evil looking painting with a cat and a dead bloody facea picture of cats with a bloody cat and a cat with a blood headan animal and a cat sitting in front of a bloody tablea cat is surrounded by prey, the next kittencat sitting next to dead fish and some fooda cat standing above a fish and cat is being scareda few cats and a cat sitting around a severed animala cat staring at a dead horse and the other cata painting with a cat and a cat that is standing near a red hood overa picture displaying various objects and animals from the pasta cat sitting next to a kitten in a paintinga painting with a cat on the floor looking at an animal that is inside ofa cat and a white and white cat on a tablea painting of a couple of cats sitting in front of a table with dead animalsa cat sitting at a table in a rooma painting of a large horned creature in front of other wildlifea painting shows a kitty and other animals on a tablecat eating fish, in a painting showing fish on a tablea cat that is sitting next to a white cowa cat and cat with meat all togetherthe painting depicts two cats and three other cats all staring at the cata painting of some clump and cat lookinga cat sitting comfortably in front of a dead fish piecea cat and a cat next to a paintinga cat and a cat sit under a blanket
+Question:is there a cat in a painting?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between great_white_shark, goldfish, electric_ray, brambling
+Answer: great_white_shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:man flips in the clear water looking ona man in a swimming snors by a very shallow areaa large fish under the water looking aroundsomeone wearing a helmet is swimming under the waterlarge body of whale in the clear watera mantas turtle swimming on a sandy groundtwo sting fishs lying on the floor, under watera brown animal swimming underneath the water, clear skysomeone looking like a sharka black object that is floating against the sidelarge fish is seen in an open ocean with blue watersa dark umbrella with a skull lying underneatha manass laying down swimming in the wild watersa submarine fish swimming across a sandy areasome very long long ribs laying in the sanda shark swims in the ocean, staring awaya scuba photo near many reefs in the oceana large fish that is walking on the sanda fish with fish feet and a tail laying on a dirt roada white polar bear laying underwater near some corala fish in water with a camera looking at the insidea fish floats in clear water while swimming through a pondsnorg's in water with a black spota bird dives near a large searay underwater under shark underwater under blue water water sting underwater marine a water there aa spotted seal looking for a food in an oceanelephant fish in the water next to a group of shellsa penguin is swimming near a spot of black gasa picture of a black dot taken on a fish
+Question:is there a shark in the ocean?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, goldfish, robin, indigo_bunting
+Answer: a picture of a black dot taken on a fish
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a colorful rat on the side of a buildingtwo polygonal rats side by side on a white backgroundthree colorful rat symbols made up of various rainbow striped rodesthree shapes of the same animal are made of different colored shapesa rat and rainbow colored lizards with their head downa rat is a colorful rat that looks like a rata mouse rat with one large animal sitting on his backa rat rat looks like its head is made out of papera rainbow colored rat on a white background with colored detailsa kiwi looking at different colors in low contrasta mouse is colored in the colors of the rainbowa colorful geometric snake that has a rainbow snake inside of ita rainbow rat rat walking on its hind side and looking down at its taila rat rat with colorful geometric shapes on ittwo colors rat or mouse sitting on the groundtwo cute rat rats on a white backgroundtwo frogs made into a rainbow triangles on a white backgrounda rat next to another rat that appears to be a rata rat rat in different colorsa ratrat rat rat rat looking up to the sidetwo colorful graphics and geometric style elementsa rat is silhouetted on a white backgrounda polygonal lizard on a white backgrounda rat with a rainbow chamelon color on its heada rat and a rainbow colored mouse are shown togethertwo rat rats in two colors, one of which is on a grey backgrounda mouse or a rat on a polygonal backgrounda colorful mouse rat on a white backgrounda rat or mouse sitting on top of each othera colorful mouse is looking forward and ready to put on
+Question:is a rat on a t-shirt a rata rat?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between bulbul, goldfinch, indigo_bunting, stingray
+Answer: a rat on a t-shirt
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a little bird that is standing still tilea cute bird sits on a tree branch ceramic coasterthe bird is sitting on a white and gray tilea sketch of a black and white birda cute small bird sitting on a brancha little bird is sitting on a a limba bird that is standing on a small brancha bird that is sitting on a tilea black and white sketch drawing of a birdbird with a bird perched a little bird tile maxwell tilesa black and white bird with flowers on its chest tilea bird with a white - spotted flyet on a white tiled floor tilea small bird sitting on top of a tree brancha small bird sitting on top of a tablea drawing of a bird looking upwarda bird that is black and white in colora small bird on a tiled tileblack and white bird sitting on a tree brancha barn - flyker sits perched on a post ceramic tilesa drawing of a bird sitting on a branchblack and white bird on branch ceramic tilesa drawing of a bird sitting on a white tile tilesa drawing of a bird sitting on a branch tilesa bird sitting on a perch in black and whitea bird drawn in black on white tile blocksa small grey and brown bird sitting on its perchblack and white bird sitting on branch with twigts and leavesa bird perched on a tree branch tilea black and white bird perched on a tree branch tileda sketch of a bird on a small tiled tile
+Question:is a bird sitting on a tile?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between goldfish, indigo_bunting, hammerhead, brambling
+Answer: a hammerhead
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird sitting on a branch next to berry still floatingbirds bird sitting on a branch next to three pens and a pena bird sitting on a branch next to a pena bird sitting on a branch next to two pensa bird sitting on a branch next to three pencilsa birds sitting on a twig of a tree with berriessitting bird with clear clear stamps on the right side of bird facea bird and two markersa small bird is laying on a tablea bird sitting on top of a table covered in berriesa pencil drawing of a bird perched on a branch of a treea bird is sitting on a twig and a stamp stampa bird perched on two sticks with a stamp next to itbird sitting in a tree branch in a winter time drawinga bird sitting on the ground next to berry berriesa bird sitting on branches with scissors in handa bird perched on a branch next to a stamp attached to a rubber rubber stampa bird sitting on a branch with a bird on top of ita bird sitting on top of a branch near markersa small bird perched on a branch of brancha small bird perched on a tree brancha sketchestud drawing of a bird with berriesa bird drawing a bird sitting on tree brancha bird perched on a branch of a flower brancha bird is sitting on a branch with berries in itbird sitting on branch surrounded by fruits and berriesa little bird that is sitting on a brancha small bird sitting on a branch of the plum treea bird and grapes
+Question:is there a bird on a branch?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between indigo_bunting, ostrich, brambling, tiger_shark
+Answer: a bird sitting on a branch
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird perched on a small branch by a tattooblack - and - white sparrow in profile to the righta drawing of a bird sitting on a branch with leavesa simple drawing of a bird by i don't know what it isa simple bird sitting on a brancha small bird with head turned awaya bird in pencil style of a small on birds of birda bird on a branch in front of a white backgrounda bird is drawn in pencil and inkthis is a drawing of a small bird on brancha white bird with a grey bill sits on a branchbird sitting right in front of white backgrounda bird drawn by ink with black and white colors on papera bird on a branch that is drawn in a linebird on a tree branch drawinga bird sitting on a branch with leaves in the backgrounda branch with leaves and a bird sitting on top of a percha small white bird is on a brancha male white bird perched on a tree brancha black and white bird sitting on a tree brancha white bird is sitting on the table on a plaina bird perched perched a percha white and black bird sitting on a brancha bird on a branch with leaveswhite bird sitting on a brancha bird has yellow in the breast and white on its neckthe bird perches on a branch with his eyes closeda bird with a black face and black eyes on a brancha bright winged bird sits on a branch with the beak turned
+Question:is a bird sitting on a branch a bird?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between hammerhead, ostrich, indigo_bunting, bulbul
+Answer: a hammerhead
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:the divers scuba have to go about 25m over the rocky beach belowa large animal with a group of fishes in the backgrounda sea creature under an ocean diver at an intersectionthe bright underwater red underwater the photograph ocean coral fish algae algae close underwater blue oceanfish swimming in the ocean next to the rocksa large, beautiful black and red stingfish in waterdivers swimming in water in red seaa large black ski in the ocean, with green and yellow lightsa black sting ray on a rock under water starsa blue crabfish on a rocky coral reef with glowing lights in the backgrounda blue sting sting sting fish swimming under green algaea big fish swimming on top of a big sandy cavea big fish has neon lights going around itfish that is in the ocean, some are flyinga stingfish and it's fish, including a big orange fishsting fish on the floor underwatera large rock in the ocean with a bright backgrounda yellow and black fish jumping over some kind of algaean ocean slug in a coral reefsome orange fish moving in a field of snowa very red, with a large, fish in a dark in the middlethere are fish that are hiding on the rocka colorful fish underwater in the ocean near other fisha group of orange fish, some white and some black, and some goldfisha black and brown fish and orange fish swimming through the nighta large fish in the shallow sea watera fish swimming through a bright neon underwater worldan underwater fish is seen looking for its prey in the wateran ocean fish is surrounded by spots and tiny lightsa fish swimming on top of a pond next to a goldfish
+Question:is there a shark in the ocean?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between bulbul, electric_ray, indigo_bunting, stingray
+Answer: a stingray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a fish can be seen in the water as a fish approaches youthree fish in the water floating close to orange leavesthe fallen fish has discarded fish and a dead fishesnautfish and fish fish fish on the surfacedead piece of fish and dead fish fish on the surfacea dead fish and fish fish laying on top of a body of watera dead fish, fish fish with a fish fish and dead fishsmall fish and dead dead fish fish on a body of watera dead fish and a few small fish are floating in the watera dead fish lays in murky water next to the branch on the grounda fish that is floating down in the grounda branch has fallen twigs and a long long sticka fish and dead fishfish fish that is fish in the waterdead fish is left in the water of the lakea fish fish that is not swimming in the watera dead fish lying in the water with a tiny fish stick next to itfish and dead fish near the top of the watersome fish are laying near dead fish on the waterthis is a thin pipe that has long stick on ita large dead stick hanging out of a lakean dead fish, carb, and a fish fish on a dead beacha dead fish next to a fish and a fish fish that is deada fish is floating in a pool with a dead fisha fish that is walking up its stomachdead fish with a fish in the water a dead fisha dead fish and an fish fish eat near fisha dead dead fish and kosh fish dead in the watera fish with no one eating fish in the waterthere is a bird flying over water near the sunlighta fish in the water, looking at fish, and dead fish
+Question:can you see a dead fish in the water?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between brambling, stingray, robin, tiger_shark
+Answer: a fish
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:sculpture of a shark with a long teetha large shark shark shark leaping a hammerfisha large hammer shark with a hammer shark on it's backthere is a shark shark statue on a rock basea close view of a hammer shark with another shark and a fishthe sharks are jumping over the sculpture shark sharksa silver and green fish with a large shark on top of ita shark and hammerhead sit atop a rocka shark shark sitting on the side of a tablea bronze shark shark statue atop a diving hammer sharka gray shark statue on a small stone pedestalthis is a sculpture of a shark on a rocka shark shark and large pieces of coral below ittwo huge sharks are flying side by sidea shark shark on a white marble rocka dolphin shark is riding a large white sharka close up of a surfed shark with a hammerfishshark and shark fins on either side of a sharka close up of a bronze animal sharka hammer shark with a hammerhead shark shark and hammerfisha silver shark sculpture on top of a plastic basea hammerfish that is perched on a sharka shark and a shark shark jumping over rocksshark shark shark shark shark shark shark teeth big blue sharksa statue of a shark sculpture sits on a white and gray beda statue of a hammer shark being thrown off by a hammer sharka grey shark shark shark shark and a large shark on a basea whale and shark fish, shark and sharka shark with a knife stuck in the stomachdecorative shark shark sculpture sitting next to a hammerbill
+Question:is there a shark shark on a rock?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between goldfish, tiger_shark, electric_ray, great_white_shark
+Answer: a shark shark shark shark shark shark shark shark shark shark shark shark shark shark shark shark shark shark shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a large ray swimming in water with blue watera ray lays above the sand at the ocean bottomsmall stingfish in the middle of the oceana sting fish moving in the middle of an ocean flooran spotted on the reefs looking to the fish, under green colora black and white zebra shark in the watera sting fish is moving across the green aquariuma brown sting ray is swimming underwater in the bluea sting ray swimming in the ocean at nightan animal resting in the bottom of a clear watera stingfish laying on top of a sandy beacha brown and white animal is lying on the sanda sting ray swimming on the sandy ocean floora stingper lays under the green sandy bottom of the seaunder - surface picture of green water surrounding a stingtooa stingfish is flying in the oceana small black ray in water next to a sea creaturean image of a sting ray swimming in the watera sting fish is moving on the watershorea tiny fish glides beneath a rocky sandy crusta fish is swimming underwater in a red seaa photo and sea sting sting green brown green sting, sting, blue sea raya skate sting shark glide on the oceanstingfish on the bottom of water near a clear waterthere is a sting ray swimming along with an animala fish with black spots is in the oceana small fish is swimming through the oceana long ray ray, underwater underwater photo about a sting underwatera ray that is under the watera big eel has just spotted its underwater rocks and water
+Question:is there a sting ray in the ocean?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between great_white_shark, stingray, indigo_bunting, goldfish
+Answer: great_white_shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a man with atatted body on his backa group of men are practicing wrestling, at a wrestling eventa man with a tattoo on the back of his backa man talks to a small boy's tattooed upper backshirtless woman standing next to a man with tattoos on his bodya tattooed man with a horse design on back backtwo man standing next to each other near each othertwo men talking next to an older man with a star tattooed on his backa man with no shirt showing the muscles, no shirta man is talking to another man and he has no shirta man with a cross shoulder tattoo tattooed on his right arma man with a tattooed lower body in an asian styletwo men talk to one another while one is full of tattoosthe back of a man with small tattoos on his backa man has a cross tattoo on his backa tattooed man has his chest tattooa couple of men standing next to each other holding tattoos on their backa person covered in a group of very nice guysa group of men with tattoos on his backcross tattoo on the back of a man in front of the crowd of mena tattooed back on a man's armsome men standing in a room with tattoos and tattoos ona man with cross tattoo on back and men nakedinga man with tattoos that show a cross on his backpeople looking at a back back on a mantattoos tattoo tattoos on a man's backa man with the same tattoos on his chest and backseveral men are dancing in a crowded buildingan upper back tattoo of a man with a skull tattooed on itback tattoo in asian language on a guy on a lower back
+Question:are there tattoos on a man's back?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between ostrich, stingray, hammerhead, tiger_shark
+Answer: a man with a cross tattoo on his back
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:an aquarium area with animals and a man reaching to a fisha man standing near an elephant and bear at the zoopeople looking at a large tiger laying in an aquariuma man with a beard in front of a polar beara man looking at a bear from a glass enclosurea black bear swimming in a poola bear with gloves and gloves standing near a windowa man with a wooden gloves, a swimming in an aquarium waterclear water under water showing rocksa man is pointing a brown bear bear enclosurebear laying in water near glass at the zooa black headed tiger looks over a walla bear swimming out of water next to a man looking at itthe man is staring at the large animal standing bya large brown bear stares into a poola bear and a man by a window holding up a glovea man with beard staring into an animal displaya man watching a large pool of water underneath a large polar beara black bear swimming in an zooa man is looking at an polar bear in its enclosurea man looking at a fish in a small lakea man in a hat and gloves is staring at an elephantwater elephant standing in an exhibit in a glass enclosurebig stonefish being fed out of glass in zooa man staring at the water from his glass windowssomeone is holding onto a bear's tail by the watera bear that could't walk the watera man looking into the water at somethinga man who is reaching for the bear at the watera bear touching water on its nose
+Question:is there a bear in a zoo?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between tiger_shark, robin, goldfinch, stingray
+Answer: tiger_shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:black bird sitting in black and white ink drawinga black bird that is standing in front of some drawingsthere is a black bird bird standing in line artbird in ink drawing on paper in the woodsa bird is sitting on a branch, on the papera hand painted bird with feathers on a stema bird in a tree tattoo design of a bird on a branchbird tattoo tattoo bird on tree coloring best coloring ofbird is drawing by a white background, birds with a white back groundthe bird is sitting on the branch next to leavesa black bird sits on a string a pagea bird sitting on top of a tree brancha bird sits on the branch of a tree branch on a white backgrounda bird with a tail and tail tail feathersa black and gray bird sitting on perched treea drawing of a bird on the brancha bird and leaves on a black backgrounda drawing of a bird of paradise sitting on a treea bird with feathers and feathers is sitting between leavesa black and white drawing of a bird on a brancha bird sitting on a tree branch in the dayblack and white drawing of bird sitting on a brancha black and white drawing of birda sketch drawing of a peacock sitting on a tree brancha bird is depicted in this picture drawingstylized bird, sitting on branch full of leavesa bird perches on a branch under leavesa bird on a branch and a white backgrounda picture of a bird that black and white
+Question:is a bird sitting on a tree branch in black and white?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between great_white_shark, brambling, goldfish, indigo_bunting
+Answer: great_white_shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a reef fish swims down close to a sandy shorea animal is walking in clear water with a blur backgroundthree animals can be seen from the bottom of cleara group of animals riding skateboards in the wateran underwater photo of a circular animal in the oceana large fish swimming over the ocean and the water surfacea turtle swimming under the blue oceana green close to blue with an ocean coral with blue green algaesa sea urant lays near the reef that was underwateranemonee is underwater on the corala picture of a flower that looks like a catan animal is peering into the camera from the bottom of the underwatera blurry photograph of a water creaturea water underwater, red, fish on a moving blura big red sea fish under watera large fish swimming through the ocean watera teddy bear sticking out of the water looking downa closeup of the head of a turtle that is in waterthere is an animal under the blue wateran underwater shot of a shark swimming over the watera view of an image of a face under watera large animal on a background of waterit is sxf under the water of the seathe ocean bottom and green watera cat is surrounded by algae in the seaa red water coral underwater viewfish in taken shot view an blur underwater blurred blur sea a fish underwater green underwaterocean fish swim around in clear water with blur motionthe coral bottom underwater with some fish moving arounda black and white fish under water with fish eyes
+Question:can you see a shark in the ocean?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, brambling, indigo_bunting, bulbul
+Answer: a stingray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird with another beak with the beak outa black and gray bird in pencil on white papera bird with a long beak is black and whitean attractive looking bird that is standing on its sidesa drawing of a bird with a big brown eye and black eyesa drawing of a bird with a head that looks like a birdpencil sketch of a birda close up view of a bird looking arounda colorful bird with white bill and beak on white backgrounda bird sitting on its side staring into the cameraa grey parrot sitting near the neck of a smaller birda bird with gray feathers and orange in heada drawing of a large bird looking straight aheadthis is a drawing of a person face of a sparrowa bird illustration of person parrota very cute bird on a paper sheeta bird with a very large beak sitting on a white surfacea bird is standing on the ground looking at its own eyesketch of a small bird and head tilteda drawing of a parrot in a pen stylea bird in a drawing style that looks sideways at the camerabird looking up to the left, with one wing down,bird drawn in pencil on a boarda black bird is sitting on a stickera drawing of a black - fronted parrotbirdblack and white drawing of a bird in a zooa bird with a white beak and beak and a beautiful beaked long billa black and white bird with a black hat and large beakbird portrait a a a this an a a a a black cardinal sparrow bird cardinala drawing of a bird sitting on a branch
+Question:can you draw a bird in black and white?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between indigo_bunting, electric_ray, bulbul, brambling
+Answer: a bird with a long beak
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a beautiful bird sits on a branch on a daya bird with the side wings spread while it perches on somethinga bird with black and white feathers on the side of it sittinga black - and white bird that is standing on a tree brancha bird sits on top of a black and white imagea bird that is on the ground with a tail upa bird sitting on the ground in black and whitea perched bird on a white background for a drawingbird with the tail up on a white backgrounda small bird sits with the feathers folded backa bird is jumping in front of a white backdropa black and white photo of a birda bird sitting in front of a white backgroundbird with great tail brush perched bird on hilla small bird sitting on top of a tree brancha bird that is standing up with wings extendeda small bird sitting on a tree limba small bird with feather feathers on its backa bird sitting on top of a branch on a treea colorful bird standing on top of a white surfacea bird has the long feathers and tail feathersa small bird is perched on a branchink drawing of a bird is sitting on a tablea bird with black wings on the brancha black and white bird is sitting on the grounda mockingel bird is flapping its taila drawing of a bird sitting on a stick brancha bird that is sitting on a brancha sparrowbird sitting on the white papera bird with its tail extended and tail folded up
+Question:is a bird sitting on a tree branch a fantail?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between robin, tiger_shark, brambling, indigo_bunting
+Answer: a bird sitting on a branch
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:black birds and red men sitting on a bush leafa photo of a bird perched on grassa blurred photograph of tall plants with exotic birds in the bushesa blurred image of a large background with a black birda blurr bird is looking a large green sprifua black bird with a red face and red feathersa blurred blurgy photo of multiplers in a pine treei took this picture from green with a ladybird on ita close up picture of a plant that has grass on itblurry image of birds and bird red orange black - birdtwo birds flying at base of a green plantred headed chimpss are seen flying around a bunch of treesa black bird and red bird standing on top of a treetwo black birds sitting on a rail, blurry, looking at the photographera bird and red jacketed wood backers perch on the pine trees in antwo black peckers a bird perched on a palm leafa blurry of birds flying in motion near red crestedate and firefliesa blurry photograph with two black birds sitting on a polea close up picture of a tree with blurred leavesa bird sits on a dandel flower busha blur of a very blurry picture of two birds and a ladybirda blurry picture of two parrotpies parrots on a treea framed by a large tree with green leavestwo birds red winged and red backbirds are sitting in the bushesa stop sign with blurry image of two black birds nearone bird, red - headed beetle and green foliagean abstract pattern view of two black cockhatstwo green bird perched on a pine treea bird looking up at the camerablurred picture of parachacades and two birds in forest
+Question:is there a bird on a tree?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between electric_ray, bulbul, brambling, hammerhead
+Answer: electric_ray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:wire wrapped around a bird and another wire wrapped in a boatyarn blue and a drawing of a dog wearing a dog heada tiny blue bird made of plastic yarna blue bird is seen on a papera drawing of some string and strings on a notebooka blue toy bird made with blue threadblue blue fishing toy on a white backgroundthe yarn is blue on the ropea bird kite kite with a little knot lying beside ita piece of white paper with a blue thread and a pair of scissorsa scissors that has strings attached to the beaka blue bird that is stringed with a crocheta blue bird is 3d printed in strong contrast to bluea cartoon bird with a man flying his eyes drawn on one sidea piece of paper featuring a sketch of a fish skulla toy is seen on a counter topa set of 3d renderor orange wire and a beada piece of art with a rope of blue threada drawing on paper of a bird with a kitea blue butterfly string and thread connected to a blue bird neta piece of blue wire in actiona string is shown that appears to be string of plastic itemsa plastic plastic bird on a piece of paper with an outline of a shark sharka blue string eye hooks sit on a piece of papersome scissors is made on a blue knota bird tied to a string with a blue hooka pair of scissors are being painted on a papera string string sculpture is stitched onto a machinea blue pen on top of a blue and red papera small blue string bird made from string string
+Question:is there a blue bird on a piece of paper?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between robin, ostrich, stingray, indigo_bunting
+Answer: a robin
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird is perched on a tree branch royaltyblackbird a bird in profile on grey backgrounda bird is not flying out of the picturea bird with a beak and a tail in a drawing waya bird sits in front of its eyes and looks to the sideline drawing of a bird birds, drawingbird is looking up and standing in fronta small bird sitting on the branch of a tree branch stocka bird on a white backgrounda bird standing on a white background stock photoa bird on a tree branch drawingbird bird perched royalty vector art royaltya bird sitting on a branch with a twig art for a papera bird in a black and white hand - drawn illustrationvector hand drawn of a small bird royalty illustration royaltya hand - drawn bird sitting perched on a brancha small bird sketched drawing drawing looking downa bird with a bird beak stock - fotorta bird sitting on a branch in a black and white drawinga bird perched on a branch engraving royalty - stained bird royalty - grafbird silhouette of goldfinum on a white backgroundillustrated drawing of a bird sitting on a brancha line drawing of a bird on a ropebird sitting on the branch of a plant, against the white background royalty photoa bird is sitting in black and white, black and whitea bird is shown in ink on white paperbird engraved in a half bird on a brancha bird drawn on a white background
+Question:is a bird sitting on a branch on a white background?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between goldfinch, stingray, electric_ray, tiger_shark
+Answer: a bird sitting on a branch on a white background
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:blue spotted eye sting blue flower sting ray sting marine rays spotted fish dive photo raya yellow sting ray that is swimming in the oceana blue sky ski is flying a long ski trackthis photo looks like an ocean sting sting fishand fish sting sting under blue sting sting spotted blue a rays ray sting sting stinga blue eye starfish in turquoise watera fish fish that has a blue ball in it's bottoma blue ray is seen through the air with a white stara underwater blue pool with a long airplane streakwhite and blue flower in water with a very large fish in the aira blue ray flying through clear blue water near reefssnow skis with a star beam above the aira blue sting sting sting sting stingler underwater with a jeta ray ray coming down through the skya marine worm fish swimming under the waterplane shooting its way over the ocean flooreye raya small blue sting stingfish swimming on the oceanan airplane flying through the ocean with a blurred cameraa blue sting ray swimming below the ocean floor, one of the things a divera blue spotted sting ray makes it's right pass beneath the ocean floora blue and white fish swims on the oceana large blue sting sting fish in the seaa blue spotted sting fish hiding under watera blue ray ray flying over the oceana large sting ray is flying through the oceana fish is shown under the watera frecket sting sting sting ray looking towards the oceanair plane flying over ocean water with a blue ray in the skya surf fish has its tongue in the watera blue dotted sting fish is in the shallow water
+Question:can you see a blue ray in the sky?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between stingray, hammerhead, electric_ray, robin
+Answer: a sting ray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a large fish with teeth is moving through the aira stingray swimming in the ocean near a rocky beachshot blur shark close shark flying flying underwater digital blue under fish wing sea fish flyingan blur fish shark killer blue fish the fish a sting sea a animal fish aa sting shark in motion with large teeth and finsa blurry photo of a long - handled fish that is seen in motiona big long shot of the sun that is turning in timea shark in the ocean is being observed by a camera lensa red fish in the ocean with high speeda big shark shark in mid air while surrounded by fast speeda giant shark with big fins floating under waterfish is in the water turning blue and pink shapesan underside view of a sharks flying right before it has taken offa fish that's moving with white, blue and green lighta single animal in motion with its belly spread offa blurry photo is shown of a stingraya shark that is swimming with his open moutha large black manta attacking a fish like animala stingback swimming on blue sea watera rays ray is coming light upabstract a moving distorted view a shadow abstract a a blurred and blur slow light aa piece of plastic that is sticking out the bottom of a sharka large stingray is on a white backgrounda shark is casting its shadow in the wateran image of a shark in motiona flying shark with it's tail and backlights ona single fish sits under a dark lighta ray ray in the middle of a sun raya large shark is floating in a full distance
+Question:is there a shark in the ocean?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between electric_ray, goldfish, goldfinch, tiger_shark
+Answer: electric ray
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a stingker with a sting attached to it's headstingfish with spots on its eyes, showing its tongue and taila blue stinggyan sitting in a pool of wateran eye - droptie fish is seen herea stingfish with a blue eye and a reef in the backgrounda ray fish that is underwater in the watera stingter ray in the ocean, laying on the ocean floora sting fish laying on the surface looking into the cameraa stingfish is shown from up close to the surfacea stingfish lays on a surface with another object in the backgrounda green spotted sting fish with white and blue markingsa blue spotted stingper moves by on the shorefish that is a scubaer rays are a fish in watera ray fish with two fins and sting ray fisha spotted ray fishfish on a coral reefa large stingfish is lying in a clear tank areaa sting ray ray hovering on top off of rocks and rocksa spotted ray that is walking on the oceanan adorable sting sting sting fish swimming in the oceana blue spotted ray is floating in the watera stingfish seen from above, in the ocean, with some plastica fish on a blue ocean is flyinga ray fish is swimming on the sanda big sting ray swimming about the oceana sting ray sting spotted diving sting ray ray fish sting reef ray ray sting stinga ray ray fish fish diving under the waterfish skate fish resting on some rock debris and its feet in watera sting ray is swimming in the sea in the water
+Question:can you see a sting ray in the water?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between robin, stingray, tiger_shark, hammerhead
+Answer: a hammerhead shark
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a blue image of ice and snow on a windowa very colorful picture of a window looking at some frosty windowsice crystals on a window glassice crystals on the surface of a poola blurry image of the blue surface of the icefrozen ice pattern is shown above a white skythe sky is made with a blurry effecta large sunny background image in the skya picture of blue and a blue water scenewater blue, blue and green on blue background with white highlightsa bright light shines through a picture of the snow on the window glassfrozen up view of water looking at the surfacea bright pink frost covered glass from over frosta bird is standing on frost and looking at the cameraa bunch of snow plants on a windowa snow and ice covered surface of a body of watera close up of blue glass like pattern on the countera person is frozen on a sheet of icea bright blue photo of a green wave of liquida photo of sun through the clouds from a snow icy windowfrosty looking glass panes across the outdoorsclose up of a blue water with a green backgroundthe blue blue water is a very bright bluea view of snow patterns on a tree with treesblue background with light glowing above in the middlea blurry reflection shining behind a froststormed windowa view of a reflection on the waterfrost covered grass and blue tonesa long ice curtain in the corner of a building
+Question:can you see frost on a window?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between robin, brambling, great_white_shark, ostrich
+Answer: a robin
+
+Please reason the answer of the questions according to the given contexts.
+Contexts:a bird with a bird in its beak drawing by - by - drawing drawing drawinga bird with fangs in its beak while using the words'stop sleeping sleeping feedinga small bird looking very cute with a black and white beakhow to draw a parakeet parrotbird coloring pages print pagea bird with a face on drawn in black and whiteblack and white photo of a bird sitting on top of a tree brancha bird with dark feathers outlineting for the imagea bird with a simple profile of neck, line drawingsa bird is shown on a coloring pagean outline drawing for a bluebird coloring drawing bird for kidsa drawing of a bird sitting on top of a wooden blockan image of a small white bird coloring pagesthe image bird sitting on a branch in the daya bird on a twig line drawinga drawing of a bird with a bird beakthe bird coloring coloring pagesa bird that has many eyes in black and whitedrawing this singing bird sitting on a branchthe bird is on a white background in this imagebird the bird the bird a coloringa bird that is sitting on a branch for coloring booksa small bird with black on the feathers on a white backgroundsome coloring birds for classa black and white bird black and white to the fronta bird coloring page, print and crafts at at all at art at all ata bird outline step step step step star step step step step step step step stepa bird drawn with the outline drawinga bird that is on a tree post
+Question:is it possible to draw a bird in black and white?
+Answer:yes
+Question:Is this a toilet?
+Answer:no
+Question:what is this photo? choose your answer between brambling, great_white_shark, hammerhead, tiger_shark
+Answer: a hammerhead shark
+
