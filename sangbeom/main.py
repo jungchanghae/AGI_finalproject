@@ -12,8 +12,8 @@ if __name__ == "__main__":
                                                                       is_eval=True, device=device)
 
     print("Loading Large Language Model (LLM)...")
-    llm_model, tokenizer = load_model('EleutherAI/gpt-neo-1.3B')
-    llm_model = llm_model.to("cuda:1")
+    llm_model, tokenizer = load_model('facebook/opt-13b')
+    llm_model = llm_model.to("cuda:0")
 
     # llm_model, tokenizer = load_model('facebook/opt-6.7b')  # ~13G (FP16)
     # llm_model, tokenizer = load_model('facebook/opt-13b') # ~26G (FP16)
@@ -21,8 +21,7 @@ if __name__ == "__main__":
     # llm_model, tokenizer = load_model('facebook/opt-66b') # ~132G (FP16)
 
     print("Loading Dataset")
-    df = load_dataset("/home/cvlab06/project/test/lost/AGI_finalproject/sangbeom/dataset/imagenet-hard",
-                      split="validation[:1%]")
+    df = load_dataset("taesiri/imagenet-hard", split="validation")
     print(df)
     df = df.shuffle()
     # df = load_dataset("taesiri/imagenet-hard")['validation']
@@ -35,7 +34,7 @@ if __name__ == "__main__":
     print("Inference Start")
     for row in tqdm(df):
         gold_label = row['english_label'][0]
-        question, true_index = create_template(class_labels, gold_label)
+        question, true_index = create_template(class_labels, gold_label,candidate_num=5)
 
         if row['image'].mode != "RGB":
             image = row['image'].convert("RGB")
@@ -60,7 +59,7 @@ if __name__ == "__main__":
         assert (len(Img2Prompt_input.input_ids[0]) + 20) <= 2048
 
         # Generate Answer Referring Prompts
-        Img2Prompt_input = Img2Prompt_input.to("cuda:1")
+        Img2Prompt_input = Img2Prompt_input.to("cuda:0")
         outputs = llm_model.generate(input_ids=Img2Prompt_input.input_ids,
                                      attention_mask=Img2Prompt_input.attention_mask,
                                      max_length=20 + len(Img2Prompt_input.input_ids[0]),
