@@ -11,9 +11,9 @@ def get_class_label(df):
     return class_set
 
 
-def create_template(class_labels, gold_label):
+def create_template(class_labels, gold_label, candidate_num):
     candidate_class = {gold_label}
-    while (len(candidate_class)) < 4:
+    while (len(candidate_class)) < candidate_num:
         candidate_class.add(random.choice(list(class_labels)))
     candidate_class = list(candidate_class)
 
