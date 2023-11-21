@@ -3,16 +3,19 @@ import time
 from datasets import load_dataset
 import torch
 from utils.vqa_model import load_model, postprocess_Answer
-from utils.preprocess import get_class_label, create_template, evaluate_answer
+from utils.preprocess import get_class_label, create_template, evaluate_answer, load_class_label, label_int2str
 from tqdm import tqdm
+import random 
 
 if __name__ == "__main__":
+    random.seed(113)
     device = torch.device("cuda:0")
     model, vis_processors, txt_processors = load_model_and_preprocess(name="img2prompt_vqa", model_type="base",
                                                                       is_eval=True, device=device)
 
     print("Loading Large Language Model (LLM)...")
     llm_model, tokenizer = load_model('EleutherAI/gpt-neo-1.3B')
+    # llm_model, tokenizer = load_model('facebook/opt-6.7b')  # ~13G (FP16)
     llm_model = llm_model.to("cuda:0")
 
     # llm_model, tokenizer = load_model('facebook/opt-6.7b')  # ~13G (FP16)
@@ -21,11 +24,13 @@ if __name__ == "__main__":
     # llm_model, tokenizer = load_model('facebook/opt-66b') # ~132G (FP16)
 
     print("Loading Dataset")
-    df = load_dataset("taesiri/imagenet-hard", split="validation[:10%]")
+    df = load_dataset("food101", split="validation")
     print(df)
-    df = df.shuffle()
+    df = df.shuffle(seed=113)
+    df = df.shard(num_shards=20, index=0)
     # df = load_dataset("taesiri/imagenet-hard")['validation']
-    class_labels = get_class_label(df)
+    # class_labels = get_class_label(df)
+    class_labels = load_class_label('/workspace/project/AGI_finalproject/dataset/food101/dataset_infos.json')
     print(len(class_labels))
     # ask a random question.
 
@@ -33,8 +38,9 @@ if __name__ == "__main__":
     matched_num, sub_matched_result = 0, 0
     print("Inference Start")
     for row in tqdm(df):
-        gold_label = row['english_label'][0]
-        question, true_index = create_template(class_labels, gold_label,candidate_num=3)
+        # gold_label = row['english_label'][0]
+        gold_label = label_int2str(class_labels,row['label'])
+        question, true_index = create_template(class_labels, gold_label,candidate_num=4)
 
         if row['image'].mode != "RGB":
             image = row['image'].convert("RGB")

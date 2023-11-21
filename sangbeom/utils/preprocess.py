@@ -1,15 +1,18 @@
 import random
+import json
 
+def load_class_label(dir):
+    # food101 json file
+    with open(dir, "r") as f:
+        data = json.load(f)
+    return data['default']['features']['label']['names']
 
 def get_class_label(df):
     class_set = set()
     # num_set = set()
     for row in df:
         class_set.add(row['english_label'][0])
-        # num_set.add(row['label'][0])
-
     return class_set
-
 
 def create_template(class_labels, gold_label, candidate_num):
     candidate_class = {gold_label}
@@ -42,3 +45,7 @@ def evaluate_answer(pred_label, gold_label, matched_num, sub_matched_result):
         matched_num += 1
 
     return matched_num, sub_matched_result
+
+def label_int2str(class_labels, label_int):
+    
+    return class_labels[label_int]
