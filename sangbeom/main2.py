@@ -3,7 +3,7 @@ import time
 from datasets import load_dataset
 import torch
 from utils.vqa_model import load_model, postprocess_Answer
-from utils.preprocess import get_class_label, create_template, evaluate_answer, load_class_label, label_int2str
+from utils.preprocess import get_class_label, create_template, evaluate_answer, load_class_label, label_int2str, most_common_word
 from tqdm import tqdm
 import random
 import argparse
@@ -43,7 +43,8 @@ def main(args):
     for row in tqdm(df):
         # gold_label = row['english_label'][0]
         gold_label = label_int2str(class_labels,row['label'])
-        question, true_index = create_template(class_labels, gold_label,candidate_num=candidate_num,template_idx=template_idx)
+        # question, true_index = create_template(class_labels, gold_label,candidate_num=candidate_num,template_idx=template_idx)
+        question = 'What is this food name?'
 
         if row['image'].mode != "RGB":
             image = row['image'].convert("RGB")
@@ -58,6 +59,7 @@ def main(args):
         samples = model.forward_itm(samples=samples)
         # Image Captioning
         samples = model.forward_cap(samples=samples, num_captions=50, num_patches=20)
+        samples['text_input'][0] = most_common_word(' '.join(samples['captions'][0]), class_labels, ['plate', 'on', 'and', 'or'], candidate_num=candidate_num,template_idx=template_idx)
         # Question Generation
         samples = model.forward_qa_generation(samples)
         # Prepare prompts for LLM
@@ -85,7 +87,7 @@ def main(args):
         matched_num, sub_matched_result = evaluate_answer(pred_label, gold_label, matched_num, sub_matched_result)
 
     # 결과 저장
-    with open(f"/workspace/project/AGI_finalproject/sangbeom/results2/results_candidate_num{candidate_num}_template_idx{template_idx}.txt", "w", encoding="utf-8") as f:
+    with open(f"/workspace/project/AGI_finalproject/sangbeom/results2/results2_candidate_num{candidate_num}_template_idx{template_idx}.txt", "w", encoding="utf-8") as f:
         f.write(f"Total: {len(df)}, Exact Accuracy: {matched_num/len(df)}, "
                 f"Sub_matched Accuracy: {(matched_num + sub_matched_result)/len(df)}"+"\n\n")
         for row in outputs_list:
